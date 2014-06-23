@@ -117,9 +117,6 @@ header .logo {
 // these fixes the centering without width applied!
 .latest {
     text-align: center;
-    width: 80%;
-    clear: both;
-    margin: 0 auto;
 
     &:before {
         content: '';
@@ -150,21 +147,10 @@ header .logo {
     }
 }
 
-.flyer {
-    float: left;
-    width: 50%;
-    img { max-width: 100%; }
-}
-.quotebox {
-    float: right;
-    width: 40%;
-    border: 15px solid black;
-    margin: 60px 0 50px 0;
-}
 .event-desc {
-    // width: 40%;
-    margin: 20px auto 80px auto;
-    font-size: 28px;
+    width: 80%;
+    margin: 20px auto 50px auto;
+    font-size: 32px;
     p {
         text-align: justify;
         margin-bottom: 20px;
@@ -176,12 +162,10 @@ header .logo {
         padding-bottom: 10px;
     }
     a:hover { border-bottom: 3px solid slategray; }
-    &.half { width: 70% }
-    span.right { float: right;}
 }
 .btn-buy-ticket {
     display: block;
-    margin: 15px auto 30px auto;
+    margin: 15px auto;
     width: 400px;
     border-radius: 40px;
     padding: 20px;
