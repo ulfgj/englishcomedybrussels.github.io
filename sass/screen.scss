@@ -95,8 +95,8 @@ nav {
 .yt { background: url("../images/social-yt.png") no-repeat; }
 
 .fb-events {
-    width: 80%;
-    margin: 60px auto;
+    width: 30%;
+    margin-left: 20%;
 }
 
 header .logo {
@@ -163,11 +163,11 @@ header .logo {
 }
 .event-desc {
     // width: 40%;
-    margin: 20px auto 80px auto;
+    margin: 0 auto 40px auto;
     font-size: 28px;
     p {
         text-align: justify;
-        margin-bottom: 20px;
+        margin: 10px 0;
         line-height: 1.2em;
     }
     a {
@@ -177,12 +177,13 @@ header .logo {
     }
     a:hover { border-bottom: 3px solid slategray; }
     &.half { width: 70% }
+    &.paras p { font-size: 16px; }
     span.right { float: right;}
 }
 .btn-buy-ticket {
     display: block;
     margin: 15px auto 30px auto;
-    width: 400px;
+    width: 80%;
     border-radius: 40px;
     padding: 20px;
     background: #3c1;
@@ -194,6 +195,11 @@ header .logo {
 .btn-buy-ticket:hover {
     border:none;
     color: black;
+}
+
+hr {
+    margin: 20px auto;
+    width: 80%;
 }
 
 footer {

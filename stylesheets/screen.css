@@ -2,7 +2,7 @@
  * In this file you should write your main styles. (or centralize your imports)
  * Import this file using the following HTML or equivalent:
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
-/* line 17, ../../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 17, ../../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -24,45 +24,45 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
-/* line 22, ../../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 22, ../../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 html {
   line-height: 1;
 }
 
-/* line 24, ../../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 24, ../../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 ol, ul {
   list-style: none;
 }
 
-/* line 26, ../../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 26, ../../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 table {
   border-collapse: collapse;
   border-spacing: 0;
 }
 
-/* line 28, ../../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 28, ../../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 caption, th, td {
   text-align: left;
   font-weight: normal;
   vertical-align: middle;
 }
 
-/* line 30, ../../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 30, ../../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 q, blockquote {
   quotes: none;
 }
-/* line 103, ../../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 103, ../../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 q:before, q:after, blockquote:before, blockquote:after {
   content: "";
   content: none;
 }
 
-/* line 32, ../../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 32, ../../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 a img {
   border: none;
 }
 
-/* line 116, ../../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 116, ../../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
   display: block;
 }
@@ -183,8 +183,8 @@ nav a:hover {
 
 /* line 97, ../sass/screen.scss */
 .fb-events {
-  width: 80%;
-  margin: 60px auto;
+  width: 30%;
+  margin-left: 20%;
 }
 
 /* line 102, ../sass/screen.scss */
@@ -263,13 +263,13 @@ header .logo {
 
 /* line 164, ../sass/screen.scss */
 .event-desc {
-  margin: 20px auto 80px auto;
+  margin: 0 auto 40px auto;
   font-size: 28px;
 }
 /* line 168, ../sass/screen.scss */
 .event-desc p {
   text-align: justify;
-  margin-bottom: 20px;
+  margin: 10px 0;
   line-height: 1.2em;
 }
 /* line 173, ../sass/screen.scss */
@@ -287,15 +287,19 @@ header .logo {
   width: 70%;
 }
 /* line 180, ../sass/screen.scss */
+.event-desc.paras p {
+  font-size: 16px;
+}
+/* line 181, ../sass/screen.scss */
 .event-desc span.right {
   float: right;
 }
 
-/* line 182, ../sass/screen.scss */
+/* line 183, ../sass/screen.scss */
 .btn-buy-ticket {
   display: block;
   margin: 15px auto 30px auto;
-  width: 400px;
+  width: 80%;
   border-radius: 40px;
   padding: 20px;
   background: #3c1;
@@ -305,13 +309,19 @@ header .logo {
   white-space: no-wrap;
 }
 
-/* line 194, ../sass/screen.scss */
+/* line 195, ../sass/screen.scss */
 .btn-buy-ticket:hover {
   border: none;
   color: black;
 }
 
-/* line 199, ../sass/screen.scss */
+/* line 200, ../sass/screen.scss */
+hr {
+  margin: 20px auto;
+  width: 80%;
+}
+
+/* line 205, ../sass/screen.scss */
 footer {
   display: table;
   background: #212121;
@@ -319,7 +329,7 @@ footer {
   margin-top: 60px;
   padding: 0 60px 60px 60px;
 }
-/* line 207, ../sass/screen.scss */
+/* line 213, ../sass/screen.scss */
 footer .footer-meta {
   float: left;
   margin-top: 60px;
@@ -327,31 +337,31 @@ footer .footer-meta {
   line-height: 1.1em;
   border-right: 2px dotted #888;
 }
-/* line 215, ../sass/screen.scss */
+/* line 221, ../sass/screen.scss */
 footer .footer-meta .media__img {
   margin-right: 60px;
 }
-/* line 218, ../sass/screen.scss */
+/* line 224, ../sass/screen.scss */
 footer .footer-meta .media__body p {
   margin-left: 10px;
 }
-/* line 223, ../sass/screen.scss */
+/* line 229, ../sass/screen.scss */
 footer .partners {
   width: 60%;
   margin-top: 60px;
   float: right;
 }
-/* line 227, ../sass/screen.scss */
+/* line 233, ../sass/screen.scss */
 footer .partners a {
   float: left;
   margin-left: 60px;
 }
-/* line 231, ../sass/screen.scss */
+/* line 237, ../sass/screen.scss */
 footer .partners img {
   border-radius: 16px;
 }
 @media (max-width: 1230px) {
-  /* line 234, ../sass/screen.scss */
+  /* line 240, ../sass/screen.scss */
   footer .partners img {
     width: 65%;
     margin-bottom: 25px;
