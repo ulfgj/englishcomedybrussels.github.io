@@ -272,12 +272,6 @@ header .logo {
   margin: 10px 0;
   line-height: 1.2em;
 }
-/* line 173, ../sass/screen.scss */
-.event-desc a {
-  font-size: 70%;
-  float: left;
-  padding-bottom: 10px;
-}
 /* line 178, ../sass/screen.scss */
 .event-desc a:hover {
   border-bottom: 3px solid slategray;

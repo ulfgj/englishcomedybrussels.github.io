@@ -95,8 +95,8 @@ nav {
 .yt { background: url("../images/social-yt.png") no-repeat; }
 
 .fb-events {
-    width: 80%;
-    margin: 60px auto;
+    width: 30%;
+    margin-left: 20%;
 }
 
 header .logo {
@@ -117,6 +117,9 @@ header .logo {
 // these fixes the centering without width applied!
 .latest {
     text-align: center;
+    width: 80%;
+    clear: both;
+    margin: 0 auto;
 
     &:before {
         content: '';
@@ -147,13 +150,24 @@ header .logo {
     }
 }
 
+.flyer {
+    float: left;
+    width: 50%;
+    img { max-width: 100%; }
+}
+.quotebox {
+    float: right;
+    width: 40%;
+    border: 15px solid black;
+    margin: 60px 0 50px 0;
+}
 .event-desc {
-    width: 80%;
-    margin: 20px auto 50px auto;
-    font-size: 32px;
+    // width: 40%;
+    margin: 0 auto 40px auto;
+    font-size: 28px;
     p {
         text-align: justify;
-        margin-bottom: 20px;
+        margin: 10px 0;
         line-height: 1.2em;
     }
     a {
@@ -162,11 +176,14 @@ header .logo {
         padding-bottom: 10px;
     }
     a:hover { border-bottom: 3px solid slategray; }
+    &.half { width: 70% }
+    &.paras p { font-size: 16px; }
+    span.right { float: right;}
 }
 .btn-buy-ticket {
     display: block;
-    margin: 15px auto;
-    width: 400px;
+    margin: 15px auto 30px auto;
+    width: 80%;
     border-radius: 40px;
     padding: 20px;
     background: #3c1;
@@ -178,6 +195,11 @@ header .logo {
 .btn-buy-ticket:hover {
     border:none;
     color: black;
+}
+
+hr {
+    margin: 20px auto;
+    width: 80%;
 }
 
 footer {
