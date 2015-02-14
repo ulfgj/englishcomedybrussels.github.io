@@ -245,8 +245,7 @@ header .logo {
 
 /* line 153, ../sass/screen.scss */
 .flyer {
-  float: left;
-  width: 40%;
+  float: none;
 }
 /* line 156, ../sass/screen.scss */
 .flyer img {
@@ -293,7 +292,7 @@ header .logo {
 .btn-buy-ticket {
   display: block;
   margin: 30px auto 30px auto;
-  width: 80%;
+  width: 35%;
   border-radius: 40px;
   padding: 20px;
   background: #3c1;
