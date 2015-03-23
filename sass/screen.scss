@@ -26,6 +26,11 @@ body {
     background: url('../images/bg-swirl.png');
     min-width: 1033px;
 }
+h1 { font-size: 36px; }
+h2 { font-size: 32px; }
+h3 { font-size: 28px; }
+h4 { font-size: 24px; }
+
 a {
     color: #777;
     text-decoration: none;
@@ -165,6 +170,7 @@ header .logo {
     // width: 40%;
     margin: 0 auto 40px auto;
     font-size: 20px;
+    width: 70%;
     p {
         text-align: justify;
         margin: 2rem 0;
@@ -176,8 +182,6 @@ header .logo {
         // padding-bottom: 10px;
     }
     a:hover { border-bottom: 3px solid slategray; }
-    &.half { width: 70% }
-    &.paras p { font-size: 16px; }
     span.right { float: right;}
 }
 .btn-buy-ticket {
@@ -202,7 +206,7 @@ hr {
     width: 80%;
 }
 
-.past-shows-box ul li a:hover {
+.past-shows-box tr:hover a {
     color: black;
 }
 

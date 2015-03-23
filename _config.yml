@@ -2,5 +2,6 @@ name: English Comedy Brussels
 markdown: redcarpet
 # pygments: false
 # highlighter: rouge
-permalink: /:title
+#permalink: /:title
+permalink: /:month-:day-:year/:title.html
 paginate: 5

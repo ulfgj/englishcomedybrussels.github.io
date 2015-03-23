@@ -1,12 +1,11 @@
 ---
 title: 2015-04-14-al-lubel-is-back-in-brussels
-show-title: Al Lubel is back in Brussels
+event-title: Al Lubel is back in Brussels
 layout: post
 ticket-url: http://ticketlib.com/lubel2015
 fb-url: 
 image-url: https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-9/10945719_853479798048414_35144081320092715_n.jpg?oh=ec914b0395a00feb8a7f5ac01b7b717c&oe=5570C289&__gda__=1433522568_8dd91b0c1bfc145a5851bed88cb57871
 youtube-video: https://www.youtube.com/embed/l9njUtIl6yE
-css-classes: event-desc half
 ---
 
 Good news, the great Al Lubel is back in Brussels on april the 14th.
