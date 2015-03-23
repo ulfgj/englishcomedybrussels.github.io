@@ -156,8 +156,8 @@ header .logo {
     img { max-width: 100%; }
 }
 .quotebox {
-    float: right;
-    width: 50%;
+    // float: right;
+    // width: 50%;
     border: 15px solid black;
     margin: 60px 0 50px 0;
 }
@@ -193,13 +193,17 @@ header .logo {
     white-space: no-wrap;
 }
 .btn-buy-ticket:hover {
-    border:none;
+    border: none;
     color: black;
 }
 
 hr {
     margin: 20px auto;
     width: 80%;
+}
+
+.past-shows-box ul li a:hover {
+    color: black;
 }
 
 footer {

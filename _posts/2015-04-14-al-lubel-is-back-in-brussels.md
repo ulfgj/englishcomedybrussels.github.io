@@ -1,13 +1,13 @@
 ---
-title: 2015-04-14-first-event
+title: 2015-04-14-al-lubel-is-back-in-brussels
+show-title: Al Lubel is back in Brussels
 layout: post
 ticket-url: http://ticketlib.com/lubel2015
+fb-url: 
 image-url: https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-9/10945719_853479798048414_35144081320092715_n.jpg?oh=ec914b0395a00feb8a7f5ac01b7b717c&oe=5570C289&__gda__=1433522568_8dd91b0c1bfc145a5851bed88cb57871
+youtube-video: https://www.youtube.com/embed/l9njUtIl6yE
 css-classes: event-desc half
 ---
-
-<!-- TODO: -->
-<!-- find out how this shit works... -->
 
 Good news, the great Al Lubel is back in Brussels on april the 14th.
 
@@ -22,6 +22,3 @@ As a special guest for this evening, we'll have argentinian comedian Adrián Min
 Make sure you get your tickets in advance !
 
 Here's a video to give you an idea :-)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l9njUtIl6yE" frameborder="0" allowfullscreen></iframe>
-<!-- <iframe width="280" height="157" src="https://www.youtube.com/embed/l9njUtIl6yE" frameborder="0" allowfullscreen></iframe> -->
