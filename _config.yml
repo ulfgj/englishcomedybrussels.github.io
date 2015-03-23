@@ -1,0 +1,6 @@
+name: English Comedy Brussels
+markdown: redcarpet
+# pygments: false
+# highlighter: rouge
+permalink: /:title
+paginate: 5
