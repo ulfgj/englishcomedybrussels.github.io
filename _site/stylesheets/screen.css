@@ -99,6 +99,7 @@ h1 {
 /* line 30, ../sass/screen.scss */
 h2 {
   font-size: 32px;
+  margin: 30px 0 8px 0;
 }
 
 /* line 31, ../sass/screen.scss */
@@ -326,11 +327,16 @@ hr {
 }
 
 /* line 209, ../sass/screen.scss */
+.past-shows-box tr td a {
+  font-weight: bold;
+}
+
+/* line 213, ../sass/screen.scss */
 .past-shows-box tr:hover a {
   color: black;
 }
 
-/* line 213, ../sass/screen.scss */
+/* line 217, ../sass/screen.scss */
 footer {
   display: table;
   background: #212121;
@@ -338,7 +344,7 @@ footer {
   margin-top: 60px;
   padding: 0 60px 60px 60px;
 }
-/* line 221, ../sass/screen.scss */
+/* line 225, ../sass/screen.scss */
 footer .footer-meta {
   float: left;
   margin-top: 60px;
@@ -346,31 +352,31 @@ footer .footer-meta {
   line-height: 1.1em;
   border-right: 2px dotted #888;
 }
-/* line 229, ../sass/screen.scss */
+/* line 233, ../sass/screen.scss */
 footer .footer-meta .media__img {
   margin-right: 60px;
 }
-/* line 232, ../sass/screen.scss */
+/* line 236, ../sass/screen.scss */
 footer .footer-meta .media__body p {
   margin-left: 10px;
 }
-/* line 237, ../sass/screen.scss */
+/* line 241, ../sass/screen.scss */
 footer .partners {
   width: 60%;
   margin-top: 60px;
   float: right;
 }
-/* line 241, ../sass/screen.scss */
+/* line 245, ../sass/screen.scss */
 footer .partners a {
   float: left;
   margin-left: 60px;
 }
-/* line 245, ../sass/screen.scss */
+/* line 249, ../sass/screen.scss */
 footer .partners img {
   border-radius: 16px;
 }
 @media (max-width: 1230px) {
-  /* line 248, ../sass/screen.scss */
+  /* line 252, ../sass/screen.scss */
   footer .partners img {
     width: 65%;
     margin-bottom: 25px;

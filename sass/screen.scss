@@ -27,7 +27,7 @@ body {
     min-width: 1033px;
 }
 h1 { font-size: 36px; }
-h2 { font-size: 32px; }
+h2 { font-size: 32px; margin: 30px 0 8px 0;}
 h3 { font-size: 28px; }
 h4 { font-size: 24px; }
 
@@ -204,6 +204,10 @@ header .logo {
 hr {
     margin: 20px auto;
     width: 80%;
+}
+
+.past-shows-box tr td a {
+    font-weight: bold
 }
 
 .past-shows-box tr:hover a {
