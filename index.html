@@ -3,7 +3,7 @@ layout: default
 ---
 
 <section class="latest">
-    {% for post in site.posts %}
+    {% for post in site.posts | limit: 2 %}
 
     <div class="flyer">
         <a href="{{ post.fb-url }}"><img src="{{ post.image-url }}" /></a>
@@ -34,16 +34,16 @@ layout: default
     <br />
 
     <div class="past-shows-box" style="text-align: left;">
-        <h2>Past &amp; present shows:</h2>
+        <h2>Past &amp; present events:</h2>
         <table>
             {% for post in site.posts reversed %}
             <tr>
             <!-- TODO:
             post.url errors out when using different permalink structure - fix this!
             -->
-                <td><a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }}</a></td>
+                <td><a href="{{ post.fb-url }}">{{ post.date | date: "%Y-%m-%d" }}</a></td>
                 <td>&nbsp;/&nbsp;</td>
-                <td><a href="{{ post.url }}">{{ post.event-title }}</a></td>
+                <td><a href="{{ post.fb-url }}">{{ post.event-title }}</a></td>
             </tr>
             {% endfor %}
         </table>
