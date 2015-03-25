@@ -6,6 +6,7 @@ layout: default
     {% for post in site.posts | limit: 2 %}
 
     <div class="flyer">
+        <h1 style="margin-bottom: 30px;">{{ post.date | date_to_long_string }} &mdash; {{ post.event-title }}</h1>
         <a href="{{ post.fb-url }}"><img src="{{ post.image-url }}" /></a>
         <br />
         <br />
@@ -14,7 +15,6 @@ layout: default
 
     <div class="quotebox">
         <div class="event-desc half">
-            <h2>{{ post.event-title }}</h2>
 
             {{ post.content }}
 
@@ -29,25 +29,9 @@ layout: default
 
     <div style="clear: both;"></div>
 
-
-    <br />
     <br />
 
-    <div class="past-shows-box" style="text-align: left;">
-        <h2>Past &amp; present events:</h2>
-        <table>
-            {% for post in site.posts reversed %}
-            <tr>
-            <!-- TODO:
-            post.url errors out when using different permalink structure - fix this!
-            -->
-                <td><a href="{{ post.fb-url }}">{{ post.date | date: "%Y-%m-%d" }}</a></td>
-                <td>&nbsp;/&nbsp;</td>
-                <td><a href="{{ post.fb-url }}">{{ post.event-title }}</a></td>
-            </tr>
-            {% endfor %}
-        </table>
-    </div>
+    {% include past-shows-box.html %}
 
 
 </section>

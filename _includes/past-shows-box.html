@@ -1,0 +1,12 @@
+<div class="past-shows-box" style="text-align: left;">
+    <h2>Past &amp; present events:</h2>
+    <table>
+        {% for post in site.posts reversed %}
+        <tr>
+            <td><a href="{{ site.baseurl }}{{ post.fb-url }}">{{ post.date | date: "%Y-%m-%d" }}</a></td>
+            <td>&nbsp;/&nbsp;</td>
+            <td><a href="{{ site.baseurl }}{{ post.fb-url }}">{{ post.event-title }}</a></td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>

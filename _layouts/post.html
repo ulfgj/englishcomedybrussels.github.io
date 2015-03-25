@@ -2,4 +2,34 @@
 layout: default
 ---
 
-{{ content }}
+<section class="latest">
+
+    <div class="flyer">
+        <a href="{{ post.fb-url }}"><img src="{{ post.image-url }}" /></a>
+    </div>
+
+    <div class="quotebox">
+        <div class="event-desc half">
+            <h2>{{ post.event-title }}</h2>
+
+            {{ content }}
+
+            {% if post.youtube-video %}
+            <iframe width="560" height="315" src="{{ post.youtube-video }}" frameborder="0" allowfullscreen></iframe>
+            {% endif %}
+        </div>
+    </div><!-- .quotebox END -->
+
+
+    <div style="clear: both;"></div>
+
+    <br />
+
+    {% include past-shows-box.html %}
+
+
+</section>
+
+</div><!-- .wrapper END -->
+
+{% include footer.html %}

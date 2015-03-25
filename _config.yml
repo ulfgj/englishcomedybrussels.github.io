@@ -3,6 +3,8 @@ markdown: redcarpet
 # pygments: false
 # highlighter: rouge
 
+baseurl: ""
+
 # permalink: /:title
 permalink: /:month-:day-:year/:title.html
 
