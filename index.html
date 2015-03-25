@@ -2,39 +2,40 @@
 layout: default
 ---
 
-<section class="latest">
     {% for post in site.posts | limit: 2 %}
+    <section class="latest">
 
-    <div class="flyer">
-        <h1 style="margin-bottom: 30px;">{{ post.date | date_to_long_string }} &mdash; {{ post.event-title }}</h1>
-        <a href="{{ post.fb-url }}"><img src="{{ post.image-url }}" /></a>
-        <br />
-        <br />
-        <a class="btn-buy-ticket" href="{{ post.ticket-url }}">Order tickets here!</a>
-    </div>
-
-    <div class="quotebox">
-        <div class="event-desc half">
-
-            {{ post.content }}
-
-            {% if post.youtube-video %}
-            <iframe width="560" height="315" src="{{ post.youtube-video }}" frameborder="0" allowfullscreen></iframe>
-            {% endif %}
+        <div class="flyer">
+            <h1 style="margin-bottom: 30px;">{{ post.date | date_to_long_string }} &mdash; {{ post.event-title }}</h1>
+            <a href="{{ post.fb-url }}"><img src="{{ post.image-url }}" /></a>
+            <br />
+            <br />
+            <a class="btn-buy-ticket" href="{{ post.ticket-url }}">Order tickets here!</a>
         </div>
-    </div><!-- .quotebox END -->
+
+        <div class="quotebox">
+            <div class="event-desc half">
+
+                {{ post.content }}
+
+                {% if post.youtube-video %}
+                <iframe width="560" height="315" src="{{ post.youtube-video }}" frameborder="0" allowfullscreen></iframe>
+                {% endif %}
+            </div>
+        </div><!-- .quotebox END -->
 
 
+
+        <div style="clear: both;"></div>
+
+        <br />
+
+    </section>
     {% endfor %}
 
-    <div style="clear: both;"></div>
-
-    <br />
-
+    <!-- TODO: make this box center & same wide as <section> -->
     {% include past-shows-box.html %}
 
-
-</section>
 
 </div><!-- .wrapper END -->
 
