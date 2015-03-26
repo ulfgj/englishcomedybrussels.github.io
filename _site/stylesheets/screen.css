@@ -306,7 +306,7 @@ header .logo {
 .event-desc span.right {
   float: right;
 }
-@media (max-width: 420px) {
+@media (max-width: 320px) {
   /* line 173, ../sass/screen.scss */
   .event-desc {
     width: 95%;
@@ -326,7 +326,7 @@ header .logo {
   font-size: 32px;
   white-space: no-wrap;
 }
-@media (max-width: 420px) {
+@media (max-width: 320px) {
   /* line 195, ../sass/screen.scss */
   .btn-buy-ticket {
     width: 60%;
