@@ -11,4 +11,4 @@ permalink: /:year-:month-:day/:title.html
 
 paginate: 5
 
-exclude: ["node_modules", "gulpfile.js", "package.json"]
+exclude: ["node_modules", "gulpfile.js", "package.json", ".sass-cache"]

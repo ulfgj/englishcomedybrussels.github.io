@@ -258,10 +258,10 @@ header .logo {
 }
 
 /* line 206, ../sass/main.scss */
-.btn-buy-ticket {
+.btn-buy-ticket a {
   display: block;
   margin: 30px auto 30px auto;
-  width: 35%;
+  width: 45%;
   border-radius: 40px;
   padding: 20px;
   background: #3c1;
@@ -272,14 +272,14 @@ header .logo {
 }
 @media (max-width: 320px) {
   /* line 206, ../sass/main.scss */
-  .btn-buy-ticket {
+  .btn-buy-ticket a {
     width: 60%;
     font-size: 165%;
   }
 }
 
 /* line 223, ../sass/main.scss */
-.btn-buy-ticket:hover {
+.btn-buy-ticket a:hover {
   border: none;
   color: black;
 }
