@@ -7,15 +7,17 @@ layout: default
 <section class="post-wrapper">
 
     <div class="flyer">
-        <a href="{{ page.fb-url }}"><img src="{{ page.image-url }}" /></a>
+        <h2 style="text-align: left;">{{ page.date | date_to_long_string }}</h2>
+        <a href="{{ page.fb-url }}">
+            <img src="{{ page.image-url }}" />
+        </a>
     </div>
 
     <div class="quotebox">
         <div class="event-desc half">
-            <h2>{{ page.event-title }}</h2>
+        <h2>{{ page.event-title }}</h2>
 
             {{ content }}
-
 
             {% if page.youtube-video %}
             <iframe width="560" height="315" src="{{ page.youtube-video }}" frameborder="0" allowfullscreen></iframe>
