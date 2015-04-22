@@ -204,7 +204,7 @@ header .logo {
 
 /* line 164, ../sass/main.scss */
 .flyer img {
-  max-height: 100%;
+  max-width: 100%;
 }
 
 /* line 167, ../sass/main.scss */
