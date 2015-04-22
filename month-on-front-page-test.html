@@ -5,17 +5,16 @@ layout: default
 <section class="latest">
     <div class="grid">
 
-        {% for post in site.posts  %}
+    {% for post in site.posts | limit: 3 %}
         {% capture currentmonth %}{{post.date | date: "%m"}}{% endcapture %}
         {% if currentmonth != month %}
 
-        <h1>{{ post.date | date: "%B %Y"}}</h1>
+        <div style="clear:both;"></div>
+        <h2 class="event-month-header">{{ post.date | date: "%B %Y"}}</h2>
 
         {% capture month %}{{currentmonth}}{% endcapture %} 
         {% endif %}
-
-{{month}}
-        <div class="col-1-4">
+        <div class="col-1-2">
             <div class="event-box module month_{{ month }}">
                 <a href="{{site.baseurl}}{{post.url}}">
                     <img src="{{ post.image-url }}" />
@@ -24,7 +23,6 @@ layout: default
                 </a>
             </div>
         </div>
-
 
         {% endfor %}
     </div>

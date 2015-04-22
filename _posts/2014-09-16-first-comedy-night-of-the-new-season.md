@@ -4,7 +4,7 @@ event-title: First comedy night of the new season
 layout: post
 ticket-url: http://www.ticketlib.com/sept2014
 fb-url: https://www.facebook.com/events/317933675033656/
-image-url: images/20140916-web.jpg
+image-url: https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-9/10352325_746110292118699_7760322879454369547_n.jpg?oh=8927c2af6f6dcf2d85022ebd33e11274&oe=5598CC2B&__gda__=1438084002_452c7fab984ac606e8bf8e78a3bc642d
 ---
 
 Join us on Tuesday September the 16th for the first comedy night of the new season. New season, new venue, and... we lowered the entrance price !

@@ -2,26 +2,30 @@
 layout: default
 ---
 
-<section class="latest">
+
+
+<section class="post-wrapper">
 
     <div class="flyer">
-        <a href="{{ post.fb-url }}"><img src="{{ post.image-url }}" /></a>
+        <a href="{{ page.fb-url }}"><img src="{{ page.image-url }}" /></a>
     </div>
 
     <div class="quotebox">
         <div class="event-desc half">
-            <h2>{{ post.event-title }}</h2>
+            <h2>{{ page.event-title }}</h2>
 
             {{ content }}
 
-            {% if post.youtube-video %}
-            <iframe width="560" height="315" src="{{ post.youtube-video }}" frameborder="0" allowfullscreen></iframe>
+
+            {% if page.youtube-video %}
+            <iframe width="560" height="315" src="{{ page.youtube-video }}" frameborder="0" allowfullscreen></iframe>
             {% endif %}
         </div>
     </div><!-- .quotebox END -->
 
 
-    <div style="clear: both;"></div>
+<!-- not needed for posts, since post has only single items and in one column -->
+<!--     <div style="clear: both;"></div> -->
 
     <br />
 
@@ -29,7 +33,7 @@ layout: default
 
 
 </section>
-
+<div style="clear: both;"></div>
 </div><!-- .wrapper END -->
 
 {% include footer.html %}

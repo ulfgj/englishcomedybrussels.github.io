@@ -3,9 +3,9 @@
     <table>
         {% for post in site.posts reversed %}
         <tr>
-            <td><a href="{{ site.baseurl }}{{ post.fb-url }}">{{ post.date | date: "%Y-%m-%d" }}</a></td>
+            <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }}</a></td>
             <td>&nbsp;/&nbsp;</td>
-            <td><a href="{{ site.baseurl }}{{ post.fb-url }}">{{ post.event-title }}</a></td>
+            <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.event-title }}</a></td>
         </tr>
         {% endfor %}
     </table>

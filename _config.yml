@@ -6,7 +6,8 @@ markdown: kramdown
 baseurl: ""
 
 # permalink: /:title
-permalink: /:month-:day-:year/:title.html
+# permalink: /:month-:day-:year/:title.html
+permalink: /:year-:month-:day/:title.html
 
 paginate: 5
 

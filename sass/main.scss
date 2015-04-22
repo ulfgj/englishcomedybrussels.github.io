@@ -1,10 +1,4 @@
-/* Welcome to Compass.
- * In this file you should write your main styles. (or centralize your imports)
- * Import this file using the following HTML or equivalent:
- * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
-
- @import "compass/reset";
- @import "variables";
+@import "variables";
 
  * {
     -webkit-box-sizing: border-box;
@@ -30,6 +24,12 @@ h1 { font-size: 36px; }
 h2 { font-size: 32px; margin: 30px 0 8px 0;}
 h3 { font-size: 28px; }
 h4 { font-size: 24px; }
+
+h2.event-month-header {
+    font-size: 32px;
+    margin: 45px 0 0 0;
+    text-align: left;
+}
 
 a {
     color: #777;
@@ -120,17 +120,17 @@ header .logo {
 }
 
 // these fixes the centering without width applied!
-.latest {
+.post-wrapper, .latest {
     text-align: center;
     width: 80%;
     clear: both;
     margin: 0 auto;
 
     &:before {
-        content: '';
-        display: inline-block;
-        height: 100%; 
-        vertical-align: middle;
+        // content: '';
+        // display: inline-block;
+        // height: 100%; 
+        // vertical-align: middle;
     }
     @media (max-width: 420px) {
         width: 100%;
@@ -160,10 +160,21 @@ header .logo {
 }
 
 .flyer {
-    float: none;
     // width: 40%;
-    img { max-width: 100%; }
+    img { max-height: 100%; }
 }
+
+.event-box {
+    border: 1px solid #ccc;
+    margin-top: 20px;
+    padding: 15px;
+
+    img { max-width: 100%; }
+    p { font-size: 16px;
+        text-align: left;
+        font-weight: 300;}
+}
+
 .quotebox {
     // float: right;
     // width: 50%;
@@ -271,3 +282,58 @@ footer {
         }
     }
 }
+
+
+
+// grid stuff for latest gigs
+
+$pad: 20px;
+
+.grid {
+  margin: 0 0 $pad 0;
+  
+  &:after {
+    /* Or @extend clearfix */
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+[class*='col-'] {
+    float: left;
+  padding-right: $pad;
+  .grid &:last-of-type {
+    padding-right: 0;
+  }
+}
+.col-2-3 {
+    width: 66.66%;
+}
+.col-1-3 {
+    width: 33.33%;
+}
+.col-1-2 {
+    width: 50%;
+}
+.col-1-4 {
+    width: 25%;
+}
+.col-1-8 {
+    width: 12.5%;
+}
+
+.module {
+  padding: $pad;
+  background: #eee;
+}
+
+/* Opt-in outside padding */
+.grid-pad {
+  padding: $pad 0 $pad $pad;
+  [class*='col-']:last-of-type {
+    padding-right: $pad;
+  }
+}
+
+.cells { background: green; }

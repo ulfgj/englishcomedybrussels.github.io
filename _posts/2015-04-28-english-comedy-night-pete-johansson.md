@@ -7,6 +7,7 @@ fb-url: https://www.facebook.com/events/361071737412364/
 image-url: https://scontent-ams.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10731074_887848344611559_8175526898644037804_n.jpg?oh=611c28d705c347d270d0afbd62f79127&oe=5577C991
 youtube-video: 
 ---
+
 Dear comedy lovers, we have an amazing lineup for our April show, with headliner Pete Johansson, who did an incredible performance last year at 'Just For Laughs" in Brussels.
 
 Pete Johansson (Canada) is a UK-based comic from Canada who performs all over the world. He gigs regularly in The Comedy Store, Glee Clubs, Komedia, Highlights and The Stands in the UK. He’s also a familiar face on the Canadian and European scene. Pete has performed in the Middle East and Australia, and travels around the world finding new and exciting gigs to play.
