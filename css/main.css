@@ -399,19 +399,25 @@ footer .partners img {
 .module {
   padding: 20px;
   background: #eee;
+  transition: background 350ms ease-in-out 0s;
+}
+
+/* line 331, ../sass/main.scss */
+.module:hover {
+  background: #bbb;
 }
 
 /* Opt-in outside padding */
-/* line 332, ../sass/main.scss */
+/* line 336, ../sass/main.scss */
 .grid-pad {
   padding: 20px 0 20px 20px;
 }
-/* line 334, ../sass/main.scss */
+/* line 338, ../sass/main.scss */
 .grid-pad [class*='col-']:last-of-type {
   padding-right: 20px;
 }
 
-/* line 339, ../sass/main.scss */
+/* line 343, ../sass/main.scss */
 .cells {
   background: green;
 }

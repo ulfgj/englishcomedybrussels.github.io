@@ -326,6 +326,10 @@ $pad: 20px;
 .module {
   padding: $pad;
   background: #eee;
+  transition: background 350ms ease-in-out 0s;
+}
+.module:hover {
+    background: #bbb;
 }
 
 /* Opt-in outside padding */
