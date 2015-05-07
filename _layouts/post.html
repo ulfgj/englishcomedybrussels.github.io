@@ -7,7 +7,6 @@ layout: default
 <section class="post-wrapper">
 
     <div class="flyer">
-        <h2 style="text-align: left;">{{ page.date | date_to_long_string }}</h2>
         <a href="{{ page.fb-url }}">
             <img src="{{ page.image-url }}" />
         </a>
@@ -15,7 +14,8 @@ layout: default
 
     <div class="quotebox">
         <div class="event-desc half">
-        <h2>{{ page.event-title }}</h2>
+        <h2 style="border-bottom: 1px solid black;">{{ page.date | date_to_long_string }}</h2>
+        <h2 style="margin-top: -5px;">{{ page.event-title }}</h2>
 
             {{ content }}
 
