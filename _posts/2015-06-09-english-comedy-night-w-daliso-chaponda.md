@@ -1,5 +1,5 @@
 ---
-title: 2015-07-09-english-comedy-night-w-daliso-chaponda
+title: 2015-06-09-english-comedy-night-w-daliso-chaponda
 event-title: English Comedy Night w/ Daliso Chaponda
 layout: post
 ticket-url: http://www.ticketlib.com/june2015
