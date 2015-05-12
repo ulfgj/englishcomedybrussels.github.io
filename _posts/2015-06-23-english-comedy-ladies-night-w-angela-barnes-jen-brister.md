@@ -4,7 +4,8 @@ event-title: English Comedy - Ladies Night w/ Angela Barnes & Jen Brister
 layout: post
 ticket-url: http://ticketlib.com/ladies20154
 fb-url: https://www.facebook.com/events/487925184691629/
-image-url: https://scontent-ams.xx.fbcdn.net/hphotos-xtf1/t31.0-8/11128111_912219128841147_2727676063611357248_o.jpg
+image-url: http://englishcomedybrussels.com/images/2015-06-23-web.jpg
+facebook-image-url: https://scontent-ams.xx.fbcdn.net/hphotos-xtf1/t31.0-8/11128111_912219128841147_2727676063611357248_o.jpg
 ---
 
 For the first time we have a ladies' special with two well established british female comedians:
