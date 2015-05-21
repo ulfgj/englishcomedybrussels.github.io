@@ -3,6 +3,7 @@ var browserSync = require('browser-sync');
 var sass        = require('gulp-sass');
 var prefix      = require('gulp-autoprefixer');
 var cp          = require('child_process');
+// var plugins     = require('gulp-load-plugins')();
 
 var jekyll = process.platform === "win32" ? "jekyll.bat" : "jekyll";
 
@@ -43,13 +44,13 @@ gulp.task('browser-sync', ['sass', 'jekyll-build'], function() {
 gulp.task('sass', function () {
     return gulp.src('sass/main.scss')
         .pipe(sass({
-            includePaths: ['scss'],
+            includePaths: ['sass'],
             onError: browserSync.notify
         }))
         .pipe(prefix(['last 15 versions', '> 1%', 'ie 8', 'ie 7'], { cascade: true }))
         .pipe(gulp.dest('_site/css'))
-        .pipe(browserSync.reload({stream:true}))
-        .pipe(gulp.dest('css'));
+        .pipe(gulp.dest('css'))
+        .pipe(browserSync.reload({stream:true}));
 });
 
 /**
