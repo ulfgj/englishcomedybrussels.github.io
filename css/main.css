@@ -159,7 +159,13 @@ header .logo {
 
 .quotebox {
   border: 15px solid black;
-  margin: 60px 0 80px 0; }
+  margin: 60px 0 5px 0; }
+
+.share-page {
+  float: right; }
+
+.share-page a {
+  padding-right: 10px; }
 
 .event-desc {
   margin: 0 auto 40px auto;

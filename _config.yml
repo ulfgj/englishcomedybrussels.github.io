@@ -2,7 +2,7 @@ name: English Comedy Brussels
 markdown: kramdown
 # pygments: false
 # highlighter: rouge
-
+url: www.englishcomedybrussels.com
 baseurl: ""
 
 # permalink: /:title
