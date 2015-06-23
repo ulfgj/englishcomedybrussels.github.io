@@ -1,11 +1,10 @@
 ---
-title: 2015-06-23-english-comedy-ladies-night-w-angela-barnes-allyson-june-smith
-event-title: English Comedy - Ladies Night w/ Angela Barnes & Allyson June Smith
+title: 2015-06-23-ladies-night-w-angela-barnes-allyson-june-smith
+event-title: Ladies Night w/ Angela Barnes & Allyson June Smith
 layout: post
-ticket-url: http://ticketlib.com/ladies20154
-fb-url: https://www.facebook.com/events/487925184691629/
-image-url: http://englishcomedybrussels.com/images/2015-06-23-web.jpg
-facebook-image-url: https://scontent-fra3-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/10171652_928113120585081_1031367607626820017_n.jpg
+ticket-url: http://ticketlib.com/ladies2015
+fb-url: https://www.facebook.com/events/487925184691629
+image-url: https://scontent-fra3-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/s720x720/10171652_928113120585081_1031367607626820017_n.jpg?oh=27165bb56c5426b040b87a6a33481248&oe=56322FCF
 ---
 
 ### Angela Barnes
