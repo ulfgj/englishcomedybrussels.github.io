@@ -1,6 +1,6 @@
 ---
-title: 2015-06-23-english-comedy-ladies-night-w-angela-barnes-jen-brister
-event-title: English Comedy - Ladies Night w/ Angela Barnes & Jen Brister
+title: 2015-06-23-english-comedy-ladies-night-w-angela-barnes-allyson-june-smith
+event-title: English Comedy - Ladies Night w/ Angela Barnes & Allyson June Smith
 layout: post
 ticket-url: http://ticketlib.com/ladies20154
 fb-url: https://www.facebook.com/events/487925184691629/
