@@ -3,7 +3,7 @@ title: 2015-06-30-english-comedy-night-w-stephen-carlin-rory-o-hanlon
 event-title: English Comedy Night w/ Stephen Carlin & Rory O'Hanlon
 layout: post
 ticket-url: http://ticketlib.com/june302015
-fb-url: www.facebook.com/events/448718181969345/
+fb-url: http://www.facebook.com/events/448718181969345/
 image-url: https://scontent-fra3-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/10984248_935311779865215_3460459720909735172_n.jpg?oh=00326f3d64e8a469b49fc6893ad2cc2c&oe=562B5CE4
 ---
 

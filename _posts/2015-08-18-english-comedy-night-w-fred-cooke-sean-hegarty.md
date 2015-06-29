@@ -3,7 +3,7 @@ title: 2015-08-18-english-comedy-night-w-fred-cooke-sean-hegarty
 event-title: English Comedy Night w/ Fred Cooke & Sean Hegarty
 layout: post
 ticket-url: http://ticketlib.com/august2015
-fb-url: www.facebook.com/events/381839745354358/
+fb-url: http://www.facebook.com/events/381839745354358/
 image-url: https://scontent-bru2-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/s720x720/11012192_935869669809426_1221742742795514954_n.jpg?oh=4bed8af06c085d9d124e0d7090055aa2&oe=562E39C6
 ---
 
