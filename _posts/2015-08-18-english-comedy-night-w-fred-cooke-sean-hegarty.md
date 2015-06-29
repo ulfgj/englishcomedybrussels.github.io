@@ -23,15 +23,15 @@ He has supported his comedy hero Ardal O’Hanlon on his massive nationwide tour
 UK Pun Championship runner up in 2014, but not only that:
 
 Sean Hegarty is one of very few 'one-liner' comedians in Ireland so is therefore regarded as the best. A recent Runner-Up in the UK Pun Championships and tour support for Patrick Kielty, Sean combines quick-fire one-liners with dry gags, jokes & music that'll leave you desperate for more. Having featured jokes in FHM Magazine, IN Magazine and writing for BBC TV & Radio to boot, he is definitely one to look out for in the near future.
-David Morgan (GB)
 
-‘A joy to behold’ &mdash; *The Metro*  
+### David Morgan (GB)
 David’s solo shows and his ability to make audiences ‘feel they’ve had a show performed specifically for them’ (London is Funny) cements him as a firm favourite in the industry. 
 
 In August 2014, he took his current show ‘Social Tool’ to the Edinburgh Fringe for a full run. Broadway Baby said that “David Morgan’s greatest strength and what makes him such an enjoyable comedian to watch is his seemingly innate ability to interact and connect with his audience.”
 
 Due to David’s brilliant skills, he was asked to host the special one-off charity show ‘Take A Comedian Out’ at the Pleasance Grand, to an audience of 750 with a total of 35 comedians taking part.
 
+‘A joy to behold’ &mdash; *The Metro*  
 “Hilarious” &mdash; *Heatworld.com*  
 “David Morgan is Funny, That’s Right. Capital F” &mdash; *Attitude*  
 “David Morgan is a star in the making” &mdash; *London is Funny*
