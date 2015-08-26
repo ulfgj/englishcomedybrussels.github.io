@@ -22,11 +22,11 @@ Following this, Tom recorded two series of ‘Tom Wrigglesworth’s Open Letters
 ### Archie Maddocks (GB)
 He’s an exciting and award winning Stand Up Comedian, who is armed with a natural stage presence, and a “winning smile”. He possesses an affable and likeable nature that immediately puts people at ease and has impressed both his peers and audiences with his charismatic, conversational style, hilarious observations and quick, acerbic wit.
 
-&mdash; Bath Comedy Festival New Act of The Year 2014 WINNER  
-&mdash; Amused Moose Laugh Off 2014 RUNNER-UP  
-&mdash; New Act Of The Year (NATYS) 2014 Finalist  
-&mdash; English Comedian Of The Year 2014 Finalist  
-&mdash; Squawker Award Finalist 2013  
-&mdash; Golden Jester Finalist & Runner Up 2013  
+Bath Comedy Festival New Act of The Year 2014 &mdash; WINNER  
+Amused Moose Laugh Off 2014 &mdash; RUNNER-UP  
+New Act Of The Year (NATYS) 2014 &mdash; Finalist  
+English Comedian Of The Year 2014 &mdash; Finalist  
+Squawker Award 2013 &mdash; Finalist  
+Golden Jester 2013 &mdash; Finalist & Runner Up  
 
 Along with these two headliners, we'll have the pleasure of having Brian Jordan and Manu Moreau back. This will be a show to remember !

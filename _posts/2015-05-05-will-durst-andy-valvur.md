@@ -8,10 +8,10 @@ image-url: https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xaf1/t31.0-8/s960x9
 ---
 It looks like his show is going to be about political satire !
 
-Will Durst (USA)
+### Will Durst (USA)
 Acknowledged by peers and press alike as one of the premier political satirists in the country, Will Durst has patched together a comedy quilt of a career, weaving together columns, books, radio and television commentaries, acting, voice overs and most especially, stand up comedy, into a hilarious patchwork of outraged and outrageous common sense. His abiding motto is “You can’t make stuff up like this."
 
-Andy Valvur (USA)
+### Andy Valvur (USA)
 Well acquainted with the Brussels crowd, and with european politics. Andy has already performed several times at our comedy nights. He has estonian origins, lives in Cologne & San Francisco, he's one of our crowd's favorites.
 
 Don't pass on this show, a must for all those who want to see politics on its funnier and lighter side.

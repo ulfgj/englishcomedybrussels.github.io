@@ -15,24 +15,24 @@ As a comedian he has performed throughout the US, Oman, Bahrain, China, Canada, 
 Joe has also written for TV on Killinascully, Nighthawks, Jo Maxi and on radio for the Tom Dunne Show (Newstalk), You Couldn’t Make It Up ( Newstalk) and Mind Your Business (RTE)
 
 ### Tom Ward
-"Equal parts hilarious and bizarre…One of the most impressive, distinctive newish acts around." - Bruce Dessau – Evening Standard & Beyond The Joke
-“Fine writing, evoking silly images and ideas, combines with a distinctive look to make him memorable.” - Steve Bennett – Chortle
-“Unique, unpredictable, and able to carry off jokes about the oddest of things…Definitely someone to look out for” - London is Funny
+"Equal parts hilarious and bizarre…One of the most impressive, distinctive newish acts around." &mdash; *Bruce Dessau - Evening Standard & Beyond The Joke*
+“Fine writing, evoking silly images and ideas, combines with a distinctive look to make him memorable.” &mdash; *Steve Bennett - Chortle*
+“Unique, unpredictable, and able to carry off jokes about the oddest of things…Definitely someone to look out for” &mdash; *London is Funny*
 
-BBC Radio New Comedy Award 2014 &mdash; Finalist
-New Act of the Year (NATY) 2014 &mdash; Finalist
-Leicester Square New Comedian 2013 &mdash; Finalist
-Piccadilly Comedy Club Comedian of the Year 2014 &mdash; Finalist
-Squawker Awards 2013 &mdash; Finalist
-Max Turner Prize 2014 &mdash; Finalist
-Cavendish Summer Trophy 2013 &mdash; Winner
-Comedy Cafe New Act Night 2014 &mdash; Twice Winner
+BBC Radio New Comedy Award 2014 &mdash; Finalist  
+New Act of the Year (NATY) 2014 &mdash; Finalist  
+Leicester Square New Comedian 2013 &mdash; Finalist  
+Piccadilly Comedy Club Comedian of the Year 2014 &mdash; Finalist  
+Squawker Awards 2013 &mdash; Finalist  
+Max Turner Prize 2014 &mdash; Finalist  
+Cavendish Summer Trophy 2013 &mdash; Winner  
+Comedy Cafe New Act Night 2014 &mdash; Twice Winner  
 
 ### Ger Staunton
 Only arriving on the scene less than 3 years ago, Ger Staunton wasted no time in becoming a regular headline act on the Irish Comedy circuit and has already been described by the International Comedy Club in Dublin as “One of the best comedy writers in Ireland.” His material is meticulously crafted and delivered in the kind of playful, tongue-in-cheek style that endears him to audiences of all ages and demographics.
 
 Kilkenny Cat Laughs 2014, Edinburgh 2014, Edinburgh 2015, Electric Picnic 2015.
 
-"A natural on the stage. An instant hit with the audience.” &mdash; HardyHar Comedy Club.
+"A natural on the stage. An instant hit with the audience.” &mdash; *HardyHar Comedy Club*
 
-“One of the best comedy writers in Ireland. An absolute stand out.” &mdash; The International Comedy Club.
+“One of the best comedy writers in Ireland. An absolute stand out.” &mdash; *The International Comedy Club*

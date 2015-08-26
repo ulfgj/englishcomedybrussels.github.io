@@ -10,9 +10,9 @@ image-url: https://scontent-mad1-1.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/11889569_9
 Another incredible lineup for our second pre Christmas show -
 
 ### Marcel Lucont
-Winner: FringeWorld Award - Best Comedy Show - FringeWorld Perth 2013
-Winner: Amused Moose Award - Best Comedy Show - Edinburgh Fringe 2012
-Nominee: Best International Show Award - New Zealand Comedy Festival 2012
+Winner: FringeWorld Award - Best Comedy Show - FringeWorld Perth 2013  
+Winner: Amused Moose Award - Best Comedy Show - Edinburgh Fringe 2012  
+Nominee: Best International Show Award - New Zealand Comedy Festival 2012  
 
 Flâneur, raconteur, bon-viveur, Marcel Lucont is easily the best French comedian on the UK circuit today. If you don't believe this, just ask him yourself.
 

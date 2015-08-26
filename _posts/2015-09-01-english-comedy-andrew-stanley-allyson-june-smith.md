@@ -14,9 +14,8 @@ is one of the top comics working the Worldwide Comedy Circuit today. He is alway
 
 Andrew has travelled to the Adelaide Fringe Festival twice, performed at the Melbourne, Sydney and New Zealand Comedy Festivals and has been invited to the prestigious Just For Laughs comedy festival in Montreal. He also travelled to the Edinburgh Fringe in 2006 where he teamed up with Australian comic Damian Clark in a show entitled 'I Dare Ya' (Great late night fun - Independent On Sunday) which was then turned into a highly successful TV show on RTE2 in 2007, still the highest rated debut comedy show on Irish TV. He returned to Edinburgh in 2008 armed with 2 shows – His first debut solo show and his own brand of late night entertainment, Andrew Stanley’s Comedy Mish Mash, which returned the following year after receiving rave reviews along with a new solo show On Sale Now.
 
-
 ### Allyson June Smith
-Since 2000, Allyson June Smith has been tickling Canada’s comedy scene from the moment she put down the chalk brush and picked up a mic.
+Since 2000, Allyson June Smith has been tickling Canada’s comedy scene from the moment she put down the chalk brush and picked up a mic.  
 Playing to packed rooms has become like another day in the classroom for this former school teacher.
 
 Her credits include her own hour long Comedy Now special, appearances on CBC Radio’s hit show The Debaters, and the Winnipeg, Halifax and Just For Laughs Festivals, to name just a few. A multiple Canadian Comedy Award nominee for Best Female Stand-Up, she performs for audiences ranging from corporations to the most rural of gatherings. Whether she was the emcee, support, or headliner, she's delighted them all.

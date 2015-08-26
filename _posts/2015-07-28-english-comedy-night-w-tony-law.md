@@ -19,17 +19,16 @@ Tony is a unique stand-up comedian, who looks like a cross between a 1908 Olympi
 &mdash; Amused Moose Laughter award 2011, winner
 
 ### Geoff Boyz (GB)
-
-Scottish comedian and impressionist, Geoff Boyz "has established himself as one of the most versatile comedians on the London Circuit" - ID Magazine
 Geoff has performed in countless Radio and TV shows andperformed in numerous countries all over the world, including Indonesia, Hong Kong, Singapore and Dubai. He was one of the first British comics to perform in China. More recently he signed a development deal with Celador (the makers of Who Wants to be a Millionaire) for a new game show called What Ever Happens I Hate You.
 
+"Scottish comedian and impressionist, Geoff Boyz 'has established himself as one of the most versatile comedians on the London Circuit'" &mdash; *ID Magazine*
 "Fast and very funny" &mdash; *GQ Magazine*  
 "It would be a welcome treat to see Geoff Boyz get his own small screen special" &mdash; *The Guardian*  
-""His Robert De Niro remains unrivalled" &mdash; *The Daily Telegraph*
+"His Robert De Niro remains unrivalled" &mdash; *The Daily Telegraph*
 
 ### Paddy Lennox 
 Paddy Lennox is a stand-up comedian and actor.  
-He has worked at The Shakespeare's Globe Theatre with Mark Rylance, slipped off this mortal coil in Holby City and been pulled faces in many television commercials across the EU.
+He has worked at The Shakespeare's Globe Theatre with Mark Rylance, slipped off this mortal coil in Holby City and been pulled faces in many television commercials across the EU.  
 Paddy earns a crust on the UK Comedy Circuit and plays all the great clubs: The Comedy Store, Jongleurs, The Glee Club, The Stand, Barnstormers and many other clubs
 
 "A scream..." &mdash; *The Telegraph*  

@@ -10,9 +10,9 @@ image-url: https://scontent-mad1-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/11218994_9
 Välkommen till en speciell kväll i Bryssel med 4 ståuppkomiker som ska uppträda PÅ SVENKSA, Måndag, den 16e november. Magnus Betnér är headlinern!
 
 Supportkomiker:
-Fritte Fritzson
-Tobias Persson
-Joe Eagan
+Fritte Fritzson  
+Tobias Persson  
+Joe Eagan  
 
 Det går bra att äta i puben innan showen - de har t.ex. mycket goda hamburgare/kyckling/fisk o pommes på menyn.
 

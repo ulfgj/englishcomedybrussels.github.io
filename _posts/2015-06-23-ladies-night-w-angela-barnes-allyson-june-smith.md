@@ -17,9 +17,7 @@ She has won the 2011 BBC New Comedy Award and became a finalist at the 2011 Lati
 “Angela Barnes is the best mainstream female comedian I've seen since Sarah Millican… I can't be any clearer than that can I?” &mdash; *Bruce Dessau, Evening Standard critic*
 
 ### Allyson June Smith
-Since 2000, Allyson June Smith has been tickling Canada’s comedy scene
-from the moment she put down the chalk brush and picked up a mic.
-Playing to packed rooms has become like another day in the classroom
+Since 2000, Allyson June Smith has been tickling Canada’s comedy scene from the moment she put down the chalk brush and picked up a mic. Playing to packed rooms has become like another day in the classroom
 for this former school teacher.
 
 Her credits include her own hour long Comedy Now special, appearances on
@@ -27,5 +25,4 @@ CBC Radio’s hit show The Debaters, and the Winnipeg, Halifax and Just For Laug
 
 After working her way across Canada, Allyson now has taken her craft to the UK. Using her sassy blend of in-your-face stand-up and hilariously insightful commentary, she now works for major UK promoters and comedy clubs.
 
-It is her genuine and unique sense of humor, combined with excellent performance
-timing, that has made audiences laugh. This teacher-come-comic is ready to show international audiences why she is a sought-after fan favourite.
+It is her genuine and unique sense of humor, combined with excellent performance timing, that has made audiences laugh. This teacher-come-comic is ready to show international audiences why she is a sought-after fan favourite.
