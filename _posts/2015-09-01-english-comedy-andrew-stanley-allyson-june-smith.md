@@ -4,7 +4,7 @@ event-title: English Comedy - Andrew Stanley & Allyson June Smith
 layout: post
 ticket-url: http://www.ticketlib.com/september2015
 fb-url: https://www.facebook.com/events/1600179620235828/
-image-url: https://scontent-mad1-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/11880315_963941253668934_1808227336474260727_n.jpg?oh=3315574dacc10a1365ca12f03b936a9f&oe=566BABD6
+image-url: https://scontent-bru2-1.xx.fbcdn.net/hphotos-xta1/v/t1.0-9/11947408_970833472979712_4922142182834422684_n.jpg?oh=d5a56a40cf374809bd0a573375719a01&oe=565D29C3
 ---
 
 Watch out for another special evening with us, starring Andrew Stanley, and Allyson Smith, who was scheduled to perform already in June but had to cancel because of protest in the Euro Tunnel.
