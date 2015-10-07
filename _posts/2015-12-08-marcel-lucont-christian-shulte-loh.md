@@ -4,7 +4,7 @@ event-title: Marcel Lucont & Christian Shulte-Loh
 layout: post
 ticket-url: http://ticketlib.com/dec2015
 fb-url: https://www.facebook.com/events/374311872766960/
-image-url: https://scontent-bru2-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/11537686_936259773103749_8183365027009812813_n.jpg?oh=35b93f67750b2bfde20a8440a0f5bdf5&oe=55EB3D9A
+image-url: https://scontent-bru2-1.xx.fbcdn.net/hphotos-xap1/t31.0-0/p600x600/1534789_936259773103749_8183365027009812813_o.jpg
 ---
 
 Ladies and gents, what a lineup for our pre Christmas show - The most hated french and the most loved german together on the same evening, check this out 
