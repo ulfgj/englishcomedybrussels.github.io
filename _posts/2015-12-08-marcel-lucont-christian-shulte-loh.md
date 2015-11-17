@@ -2,9 +2,9 @@
 title: 2015-12-08-marcel-lucont-christian-shulte-loh
 event-title: Marcel Lucont & Christian Shulte-Loh
 layout: post
-ticket-url: http://ticketlib.com/dec2015
+ticket-url: https://www.weezevent.com/dec2015show1
 fb-url: https://www.facebook.com/events/374311872766960/
-image-url: https://scontent-bru2-1.xx.fbcdn.net/hphotos-xap1/t31.0-0/p600x600/1534789_936259773103749_8183365027009812813_o.jpg
+image-url: https://www.weezevent.com/cache/images/affiche_131032.thumb53700.1441987174.jpg
 ---
 
 Ladies and gents, what a lineup for our pre Christmas show - The most hated french and the most loved german together on the same evening, check this out 
