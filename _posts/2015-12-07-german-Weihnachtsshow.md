@@ -8,6 +8,7 @@ image-url: https://scontent-cdg2-1.xx.fbcdn.net/hphotos-xta1/v/t1.0-9/11934971_9
 ---
 
 *Otto Kuhne* & *Christian Schulte-Loh* in:
+
 ### DIE GROSSE, LUSTIGE, DEUTSCHE WEIHNACHTSSHOW
 
 Eine verrückte Weihnachtsshow mit Stand-up Comedy, viel Blödsinn, einem Jahresrückblick und Weihnachtsliedern. Auf der Bühne stehen die beiden internationalen deutschen Comedy-Stars Otto Kuhnle und Christian Schulte-Loh. Und ein Weihnachtsbaum.
