@@ -4,7 +4,7 @@ event-title: German Weihnachtsshow
 layout: post
 ticket-url: http://www.weezevent.com/germanshow2015
 fb-url: https://www.facebook.com/events/1678108569087805
-image-url: https://scontent-cdg2-1.xx.fbcdn.net/hphotos-xta1/v/t1.0-9/11934971_965502053512854_4335669313007193986_n.jpg?oh=7f03b7722ffc38760874ae7710faa29d&oe=56F92419
+image-url: https://www.weezevent.com/cache/images/affiche_131020.thumb53700.1441986576.jpg
 ---
 
 **Otto Kuhne & Christian Schulte-Loh in:**
