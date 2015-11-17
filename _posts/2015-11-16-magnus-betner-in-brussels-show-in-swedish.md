@@ -4,7 +4,7 @@ event-title: Magnus Betnér in Brussels (Show in swedish)
 layout: post
 ticket-url: http://www.ticketlib.com/swedshow2015
 fb-url: https://www.facebook.com/events/422297511228792/
-image-url: https://scontent-mad1-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/11218994_945561352173591_6062919220694776551_n.jpg?oh=09d89d20f4151bdb5a326872cfb39fd0&oe=5636E597
+image-url: https://scontent-cdg2-1.xx.fbcdn.net/hphotos-xat1/v/t1.0-9/q84/s720x720/11218994_945561352173591_6062919220694776551_n.jpg?oh=dc820aa06261a81cc02c210afae5fef0&oe=56F555DC
 ---
 
 Välkommen till en speciell kväll i Bryssel med 4 ståuppkomiker som ska uppträda PÅ SVENKSA, Måndag, den 16e november. Magnus Betnér är headlinern!
