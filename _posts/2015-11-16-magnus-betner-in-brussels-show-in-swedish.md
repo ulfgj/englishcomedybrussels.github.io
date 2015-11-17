@@ -17,7 +17,7 @@ Joe Eagan
 Det går bra att äta i puben innan showen - de har t.ex. mycket goda hamburgare/kyckling/fisk o pommes på menyn.
 
 Entré - 20eur
-Begr. antal förköpsbiljetter för 16eur via: www.ticketlib.com/swedshow2015
+Begr. antal förköpsbiljetter för 16eur via: www.weezevent.com/betner2015
 
 ### MAGNUS BETNÉR
 Magnus har sedan början av 2000-talet byggt upp en nationell publik genom medverkan i TV-program som Parlamentet och Stockholm Live. Under 2007 genomförde Betnér sin första Sverigeturné, Inget är heligt, och har sedan dess turnerat flitigt med uppföljarna Tal till nationen (2008–09), Livets ord (2009–10) och Magnus Betnér IV (2011-12). Den humorstil som är karakteristisk för Betnér är inte sällan politisk, ofta liberal och provokativ.Några återkommande ämnen som ofta blir föremål för satir i Betnérs shower är nazism, rasism och religion i alla dess former. Även journalistik, i synnerhet Aftonbladet, har varit ett populärt diskussionsområde. Betnér hävdar ofta i sina shower att yttrandefriheten är det viktigaste som finns och att den måste gälla lika för alla. Betnér har tilldelats utmärkelsen "Bästa manliga komiker" vid Svenska Stand up-galan 2005 och 2010.
