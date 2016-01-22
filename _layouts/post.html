@@ -7,14 +7,21 @@ layout: default
 <section class="post-wrapper">
 
     <div class="flyer">
-        <a href="{{ page.fb-url }}">
+        <a href="{{ page.fb-url }}" target="_blank">
             <img src="{{ page.image-url }}" />
         </a>
     </div>
 
     <div class="quotebox">
         <div class="event-desc half">
+        {% if page.availability == "soldout" %}
+            <span class="availability">Sold out</span>
+        {%endif%}
+        {% if page.availability == "cancelled" %}
+            <span class="availability">Cancelled</span>
+        {%endif%}
         <h2 style="border-bottom: 1px solid black;">{{ page.date | date_to_long_string }}</h2>
+
         <h2 style="margin-top: -5px;">{{ page.event-title }}</h2>
 
             {{ content }}
@@ -27,7 +34,7 @@ layout: default
     </div><!-- .quotebox END -->
 
     {% include share-block.html %}
-    
+
 
 <!-- not needed for posts, since post has only single items and in one column -->
 <!--     <div style="clear: both;"></div> -->

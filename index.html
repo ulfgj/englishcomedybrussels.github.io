@@ -12,11 +12,18 @@ layout: default
         <div style="clear:both;"></div>
         <h2 class="event-month-header">{{ post.date | date: "%B %Y"}}</h2>
 
-        {% capture month %}{{currentmonth}}{% endcapture %} 
+        {% capture month %}{{currentmonth}}{% endcapture %}
         {% endif %}
         <div class="col-1-2">
             <div class="event-box module month_{{ month }}">
                 <a href="{{site.baseurl}}{{post.url}}">
+            {% if post.availability == "soldout" %}
+                <span class="availability">Sold out</span>
+            {%endif%}
+            {% if post.availability == "cancelled" %}
+                <span class="availability">Cancelled</span>
+            {%endif%}
+
                     <img src="{{ post.image-url }}" />
                     <p>{{ post.date | date_to_long_string }}</p>
                     <p>{{ post.event-title }}</p>

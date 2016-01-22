@@ -1,4 +1,4 @@
-@import "variables";
+@import "_variables";
 
  * {
     -webkit-box-sizing: border-box;
@@ -91,7 +91,7 @@ nav {
     }
     .clear {
         display: inline;
-        
+
     }
 }
 
@@ -129,7 +129,7 @@ header .logo {
     &:before {
         // content: '';
         // display: inline-block;
-        // height: 100%; 
+        // height: 100%;
         // vertical-align: middle;
     }
     @media (max-width: 420px) {
@@ -168,6 +168,7 @@ header .logo {
     border: 1px solid #ccc;
     margin-top: 20px;
     padding: 15px;
+    position: relative;
 
     img { max-width: 100%; }
     p { font-size: 16px;
@@ -181,7 +182,7 @@ header .logo {
     border: 15px solid black;
     margin: 60px 0 5px 0;
 }
-.share-page" {
+.share-page {
     float: right;
 }
 .event-desc {
@@ -189,6 +190,7 @@ header .logo {
     margin: 0 auto 40px auto;
     font-size: 20px;
     width: 80%;
+    position: relative;
     p {
         text-align: justify;
         margin: 2rem 0;
@@ -294,10 +296,10 @@ $pad: 20px;
 
 .grid {
   margin: 0 0 $pad 0;
-  
+
   &:after {
     /* Or @extend clearfix */
-    content: "";
+    content: '';
     display: table;
     clear: both;
   }
@@ -344,3 +346,21 @@ $pad: 20px;
 }
 
 .cells { background: green; }
+
+.availability {
+    color: red;
+    background-color: white;
+    border: 6px solid black;
+    font-size: 48px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 20px 60px;
+    position: absolute;
+    right:0;
+    top:0;
+    z-index: 3;
+    transform: rotate(30deg);
+}
+
+
