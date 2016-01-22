@@ -18,10 +18,10 @@ layout: default
             <div class="event-box module month_{{ month }}">
                 <a href="{{site.baseurl}}{{post.url}}">
             {% if post.availability == "soldout" %}
-                <span class="availability">Sold out</span>
+                <span class="availability front-page">Sold out</span>
             {%endif%}
             {% if post.availability == "cancelled" %}
-                <span class="availability">Cancelled</span>
+                <span class="availability front-page">Cancelled</span>
             {%endif%}
 
                     <img src="{{ post.image-url }}" />

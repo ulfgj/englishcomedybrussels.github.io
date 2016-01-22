@@ -362,5 +362,9 @@ $pad: 20px;
     z-index: 3;
     transform: rotate(30deg);
 }
+.availability.front-page {
+    transform: scale(.75) rotate(30deg);
+    right:-60px;
+}
 
 
