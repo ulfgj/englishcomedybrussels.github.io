@@ -2,7 +2,6 @@
 title: 2016-02-09-paul-taylor-franglais
 event-title: Paul Taylor - Franglais (video "La Bise", 1.9 Million views in one week)
 layout: post
-availability:
 ticket-url: https://www.weezevent.com/franglais2016
 fb-url: https://www.facebook.com/events/454385438084561/
 image-url: https://www.weezevent.com/cache/images/affiche_151900.thumb53700.1452763903.png

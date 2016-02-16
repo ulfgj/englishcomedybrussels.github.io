@@ -2,7 +2,6 @@
 title: 2016-03-15-irish-comedy-night-w-rory-o-hanlon-paddy-lennox-st-patrick-special
 event-title: Irish Comedy Night w/ Rory O'Hanlon & Paddy Lennox - St Patrick Special
 layout: post
-availability:
 ticket-url: https://www.weezevent.com/irish2016
 fb-url: https://www.facebook.com/events/938292846256651/
 image-url: https://www.weezevent.com/cache/images/affiche_156599.thumb53700.1454679722.jpg
