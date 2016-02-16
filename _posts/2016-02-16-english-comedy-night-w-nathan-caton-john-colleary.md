@@ -2,6 +2,7 @@
 title: 2016-02-16-english-comedy-night-w-nathan-caton-john-colleary
 event-title: English Comedy Night w/ Nathan Caton & John Colleary
 layout: post
+availability:
 ticket-url: https://www.weezevent.com/feb2016show2
 fb-url: https://www.facebook.com/events/1656588734624361/
 image-url: https://www.weezevent.com/cache/images/affiche_149270.thumb53700.1451647561.jpg

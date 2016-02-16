@@ -2,6 +2,7 @@
 title: 2016-02-22-ardal-o-hanlon-22-23-feb-in-brussels
 event-title: Ardal O'Hanlon - 22 & 23 Feb in Brussels
 layout: post
+availability: soldout
 ticket-url: https://www.weezevent.com/ardal2016
 fb-url: https://www.facebook.com/events/877204999066788/
 image-url: https://www.weezevent.com/cache/images/affiche_142380.thumb53700.1447847980.jpg
