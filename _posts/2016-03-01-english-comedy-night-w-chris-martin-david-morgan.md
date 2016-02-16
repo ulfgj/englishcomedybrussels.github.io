@@ -2,7 +2,7 @@
 title: 2016-03-01-english-comedy-night-w-chris-martin-david-morgan
 event-title: English Comedy Night w/ Chris Martin & David Morgan
 layout: post
-availability: soldout
+availability:
 ticket-url: https://www.weezevent.com/mar2016show1
 fb-url: https://www.facebook.com/events/797724280354606/
 image-url: https://www.weezevent.com/cache/images/affiche_156474.thumb53700.1454679302.jpg
