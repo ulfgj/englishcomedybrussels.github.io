@@ -11,15 +11,13 @@ image-url: https://www.weezevent.com/cache/images/affiche_156474.thumb53700.1454
 Another brilliant line-up for this show!
 
 ### Chris Martin (GB)
-
 Over the last years that Chris Martin supported Jack Whitehall (2011), Russell Kane (2012) & Milton Jones on his full tour for 2013.  
 He performed a sold out run at Edinburgh Festival in 2011 for his show “Chris Martin: No, Not That One” & is doing his first solo tour in the spring of 2014.
 
 _"One of the UK's best young observationalists"_ &mdash; The guardian  
 _"Destined for greatness"_ &mdash; The Sunday times  
 
-###David Morgan (GB)
-
+### David Morgan (GB)
 David did so well in August that I had many requests to get him back, so here he is!
 
 ‘A joy to behold’ &mdash; The Metro
