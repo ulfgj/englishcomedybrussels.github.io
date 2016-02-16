@@ -5,7 +5,7 @@ layout: default
 <section class="latest">
     <div class="grid">
 
-    {% for post in site.posts | limit: 12 %}
+    {% for post in site.posts | limit: 8 %}
         {% capture currentmonth %}{{post.date | date: "%m"}}{% endcapture %}
         {% if currentmonth != month %}
 
