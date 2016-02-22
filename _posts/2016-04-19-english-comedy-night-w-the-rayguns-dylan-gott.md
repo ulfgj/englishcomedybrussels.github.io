@@ -22,7 +22,7 @@ And together with them, and for the first time in Brussels:
 ### Dylan Gott (Can)
 Dylan Gott has been nominated for a Canadian Comedy Award performed at prestigious comedy festivals such as Just For Laughs Toronto, North By Northeast, appeared on Bite TV with his own televised special on iChannel called 'No Kidding' and hosted his own radio show on Sirius XM Radio 'The Sport Brahs'
  
-'★ ★ ★ ★ &mdash; _Torontoist_
+'★ ★ ★ ★' &mdash; _Torontoist_
  
 'Delightfully Bizarre' &mdash; _AV Club_
  
