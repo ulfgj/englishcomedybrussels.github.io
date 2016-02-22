@@ -18,10 +18,10 @@ Although best known for his starring roles in Father Ted and My Hero, Ardal’s 
 
 Ardal’s bestselling novel "The Talk of the Town features" in the influential tome "1001 Books to Read Before you Die".
 
-_‘Charm, intelligence and fabulous phrase-making’_ &mdash; Guardian
+_‘Charm, intelligence and fabulous phrase-making’_ &mdash; Guardian  
 
-_‘He flutters through a variety of topics with a poet’s eye for inconsequential detail’_ &mdash; The Telegraph
+_‘He flutters through a variety of topics with a poet’s eye for inconsequential detail’_ &mdash; The Telegraph  
 
-_‘Highly entertaining and frequently brilliant’_ &mdash; Irish Independent
+_‘Highly entertaining and frequently brilliant’_ &mdash; Irish Independent  
 
 _‘Watch him turn innocence into a deadly comic weapon’_ &mdash; Sunday Times
