@@ -8,19 +8,19 @@ fb-url: https://www.facebook.com/events/938292846256651/
 image-url: https://www.weezevent.com/cache/images/affiche_156599.thumb53700.1454679722.jpg
 ---
 
-For St Patrick we have put up a very special show exclusively with Irish comedians
+For St Patrick we have put up a very special show exclusively with Irish comedians!
 
 ### Rory O'Hanlon (Ire)
 He raised the roof last June, and many of you asked to see him again, welcome back Rory!
 
-Rory o' Hanlon is one of the rising stars of Irish and UK comedy ,starting off his comedy career in Dublin, Rory is now a firm favourite at every top comedy venue in the UK and Ireland.Rory machine gun style punchlines has audiences crying with laughter. Just back from another hugely successful run at the Edinburgh fringe the future looks bright for this brilliant comedian
+Rory o' Hanlon is one of the rising stars of Irish and UK comedy ,starting off his comedy career in Dublin, Rory is now a firm favourite at every top comedy venue in the UK and Ireland.Rory machine gun style punchlines has audiences crying with laughter. Just back from another hugely successful run at the Edinburgh fringe the future looks bright for this brilliant comedian.
 
 ### Paddy Lennox (Nir)
 Another comedian you requested back, after his memorable performance last July!
 
 Paddy Lennox is a stand-up comedian and actor.  
 He has worked at The Shakespeare's Globe Theatre with Mark Rylance, slipped off this mortal coil in Holby City and been pulled faces in many television commercials across the EU.  
-Paddy earns a crust on the UK Comedy Circuit and plays all the great clubs: The Comedy Store, Jongleurs, The Glee Club, The Stand, Barnstormers and many other clubs
+Paddy earns a crust on the UK Comedy Circuit and plays all the great clubs: The Comedy Store, Jongleurs, The Glee Club, The Stand, Barnstormers and many other clubs.
 
 _"A scream..."_ &mdash; The Telegraph
 

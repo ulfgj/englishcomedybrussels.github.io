@@ -2,7 +2,7 @@
 title: 2016-03-05-english-comedy-night-w-alfie-brown-allyson-smith
 event-title: English Comedy Night w/ Alfie Brown & Allyson Smith
 layout: post
-availability: 
+availability:
 ticket-url: https://www.weezevent.com/apr2016show1
 fb-url: https://www.facebook.com/events/957766490973168/
 image-url: https://www.weezevent.com/cache/images/affiche_156624.thumb53700.1454947125.jpg

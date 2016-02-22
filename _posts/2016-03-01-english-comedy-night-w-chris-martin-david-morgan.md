@@ -26,7 +26,7 @@ David’s solo shows and his ability to make audiences ‘feel they’ve had a s
 
 In August 2014, he took his current show ‘Social Tool’ to the Edinburgh Fringe for a full run. Broadway Baby said that “David Morgan’s greatest strength and what makes him such an enjoyable comedian to watch is his seemingly innate ability to interact and connect with his audience.”
 
-Due to David’s brilliant skills, he was asked to host the special one-off charity show ‘Take A Comedian Out’ at the Pleasance Grand, to an audience of 750 with a total of 35 comedians taking part.
+Due to David’s brilliant skills, he was asked to host the special one-off charity show ‘Take A Comedian Out’ at the Pleasance Grand, to an audience of 750 with a total of 35 comedians taking part.  
 
 _“Hilarious”_ &mdash; Heatworld  
 _“David Morgan is Funny, That’s Right. Capital F”_ &mdash; Attitude  
