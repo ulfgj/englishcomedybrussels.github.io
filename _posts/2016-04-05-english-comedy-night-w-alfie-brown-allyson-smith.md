@@ -1,5 +1,5 @@
 ---
-title: 2016-03-05-english-comedy-night-w-alfie-brown-allyson-smith
+title: 2016-04-05-english-comedy-night-w-alfie-brown-allyson-smith
 event-title: English Comedy Night w/ Alfie Brown & Allyson Smith
 layout: post
 availability:
