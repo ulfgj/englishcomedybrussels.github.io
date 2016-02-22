@@ -2,7 +2,6 @@
 title: 2016-04-19-english-comedy-night-w-the-rayguns-dylan-gott
 event-title: English Comedy Night w/ The Rayguns & Dylan Gott
 layout: post
-availability: 
 ticket-url: https://www.weezevent.com/apr2016show2
 fb-url: https://www.facebook.com/events/1078742372177208/
 image-url: https://www.weezevent.com/cache/images/affiche_158215.thumb53700.1455364298.jpg

@@ -2,7 +2,6 @@
 title: 2016-02-02-english-comedy-night-w-angela-barnes-isak-jansson
 event-title: English Comedy Night w/ Angela Barnes & Isak Jansson
 layout: post
-availability:
 ticket-url: https://www.weezevent.com/feb2016show1
 fb-url: https://www.facebook.com/events/1531474520511082/
 image-url: https://www.weezevent.com/cache/images/affiche_147170.thumb53700.1450192210.png
