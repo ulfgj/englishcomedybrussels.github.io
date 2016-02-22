@@ -22,7 +22,7 @@ David did so well in August that I had many requests to get him back, so here he
 
 ‘A joy to behold’ &mdash; The Metro
 
-David’s solo shows and his ability to make audiences ‘feel they’ve had a show performed specifically for them’ (London is Funny) cements him as a firm favorite in the industry. 
+David’s solo shows and his ability to make audiences ‘feel they’ve had a show performed specifically for them’ (London is Funny) cements him as a firm favorite in the industry.  
 
 In August 2014, he took his current show ‘Social Tool’ to the Edinburgh Fringe for a full run. Broadway Baby said that “David Morgan’s greatest strength and what makes him such an enjoyable comedian to watch is his seemingly innate ability to interact and connect with his audience.”
 
@@ -30,4 +30,4 @@ Due to David’s brilliant skills, he was asked to host the special one-off char
 
 _“Hilarious”_ &mdash; Heatworld  
 _“David Morgan is Funny, That’s Right. Capital F”_ &mdash; Attitude  
-_“David Morgan is a star in the making”_ &mdash; London is Funny
+_“David Morgan is a star in the making”_ &mdash; London is Funny  

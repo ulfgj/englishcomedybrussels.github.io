@@ -8,7 +8,6 @@ fb-url: https://www.facebook.com/events/957766490973168/
 image-url: https://www.weezevent.com/cache/images/affiche_156624.thumb53700.1454947125.jpg
 ---
 
-
 ### Alfie Brown (GB)
 “Quite simply the future of British stand-up” ★★★★★ &mdash; _Brian Donaldson, The List_
 
