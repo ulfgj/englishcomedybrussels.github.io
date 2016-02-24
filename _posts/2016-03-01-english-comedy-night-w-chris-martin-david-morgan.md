@@ -1,6 +1,6 @@
 ---
 title: 2016-03-01-english-comedy-night-w-chris-martin-david-morgan
-event-title: English Comedy Night w/ Chris Martin & David Morgan
+event-title: English Comedy Night w/ Chris Martin &amp; David Morgan
 layout: post
 ticket-url: https://www.weezevent.com/mar2016show1
 fb-url: https://www.facebook.com/events/797724280354606/
@@ -10,8 +10,8 @@ image-url: https://www.weezevent.com/cache/images/affiche_156474.thumb53700.1454
 Another brilliant line-up for this show!
 
 ### Chris Martin (GB)
-Over the last years that Chris Martin supported Jack Whitehall (2011), Russell Kane (2012) & Milton Jones on his full tour for 2013.  
-He performed a sold out run at Edinburgh Festival in 2011 for his show “Chris Martin: No, Not That One” & is doing his first solo tour in the spring of 2014.
+Over the last years that Chris Martin supported Jack Whitehall (2011), Russell Kane (2012) &amp; Milton Jones on his full tour for 2013.  
+He performed a sold out run at Edinburgh Festival in 2011 for his show “Chris Martin: No, Not That One” &amp; is doing his first solo tour in the spring of 2014.
 
 _"One of the UK's best young observationalists"_ &mdash; The guardian  
 _"Destined for greatness"_ &mdash; The Sunday times  

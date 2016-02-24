@@ -15,7 +15,7 @@ He performs more than 100 concerts per year, in some of the biggest guitar festi
 
 Since 2006 he even has his own signature guitar build by Martin guitars, one of the most prestigious companies in the world.
 
-His two albums "Catch the Spirit 1&2" (that include covers from Jimi Hendrix, U2, Rolling Stones, The Beatles, Neil Young, Sting...) stayed on the charts for 41 and 23 weeks respectively.
+His two albums "Catch the Spirit 1&amp;2" (that include covers from Jimi Hendrix, U2, Rolling Stones, The Beatles, Neil Young, Sting...) stayed on the charts for 41 and 23 weeks respectively.
 
 His new album "To Rory" is a tribute to his major influence, Irish guitarist Rory Gallagher. It is the very first time that Gallagher's music is performed this way, and this new project is already getting rave reviews all over the world
 

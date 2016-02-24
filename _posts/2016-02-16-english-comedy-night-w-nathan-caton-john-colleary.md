@@ -1,6 +1,6 @@
 ---
 title: 2016-02-16-english-comedy-night-w-nathan-caton-john-colleary
-event-title: English Comedy Night w/ Nathan Caton & John Colleary
+event-title: English Comedy Night w/ Nathan Caton &amp; John Colleary
 layout: post
 ticket-url: https://www.weezevent.com/feb2016show2
 fb-url: https://www.facebook.com/events/1656588734624361/
@@ -21,4 +21,4 @@ Within his first few years on stage, he had picked up various accolades and cove
 Since then Caton has gone from strength to strength, wowing audiences at comedy clubs up and down the UK, and on his numerous TV and radio appearances, with his delightfully charming blend of personal and political comedy.
  
 ## John Colleary
-is star and co-writer of the 3-time IFTA nominated THE SAVAGE EYE. His credits include appearances on STAND AND DELIVER & THE PANEL (RTE2), as well as being the writer/performer of popular slot LAST ORDERS on TODAY FMs LAST WORD. He was voted sixth best comedian in Europe by BAIL OUT MONTHLY Magazine.
+is star and co-writer of the 3-time IFTA nominated THE SAVAGE EYE. His credits include appearances on STAND AND DELIVER &amp; THE PANEL (RTE2), as well as being the writer/performer of popular slot LAST ORDERS on TODAY FMs LAST WORD. He was voted sixth best comedian in Europe by BAIL OUT MONTHLY Magazine.
