@@ -17,6 +17,7 @@ layout: default
         <div class="col-1-2">
             <div class="event-box module month_{{ month }}">
                 <a href="{{site.baseurl}}{{post.url}}">
+
             {% if post.availability == "soldout" %}
                 <span class="availability front-page">Sold out</span>
             {%endif%}
