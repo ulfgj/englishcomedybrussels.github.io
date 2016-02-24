@@ -13,6 +13,8 @@ paginate: 5
 
 gems: [jekyll-paginate]
 
+future: true
+
 exclude: ["node_modules", "gulpfile.js", "package.json", ".sass-cache"]
 
 
