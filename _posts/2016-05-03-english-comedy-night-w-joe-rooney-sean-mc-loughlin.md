@@ -5,7 +5,7 @@ layout: post
 availability: 
 ticket-url: https://www.weezevent.com/may2016show1
 fb-url: https://www.facebook.com/events/173060653072489/
-image-url: https://www.weezevent.com/cache/images/affiche_159669.thumb53700.1455993831.jpg
+image-url: https://wzeweb-p-visuelorga-evn-affiche-thumb.s3-eu-west-1.amazonaws.com/affiche_159669.thumb53700.1456481626.jpg
 ---
 
 Joe Rooney is back!

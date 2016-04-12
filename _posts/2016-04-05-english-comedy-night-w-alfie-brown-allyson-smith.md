@@ -4,7 +4,7 @@ event-title: English Comedy Night w/ Alfie Brown &amp; Allyson Smith
 layout: post
 ticket-url: https://www.weezevent.com/apr2016show1
 fb-url: https://www.facebook.com/events/957766490973168/
-image-url: https://www.weezevent.com/cache/images/affiche_156624.thumb53700.1454947125.jpg
+image-url: https://wzeweb-p-visuelorga-evn-affiche-thumb.s3-eu-west-1.amazonaws.com/affiche_156624.thumb53700.1454947125.jpg
 ---
 
 ### Alfie Brown (GB)
