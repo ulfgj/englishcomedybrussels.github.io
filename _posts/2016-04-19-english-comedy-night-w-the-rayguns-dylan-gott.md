@@ -4,7 +4,7 @@ event-title: English Comedy Night w/ The Rayguns &amp; Dylan Gott
 layout: post
 ticket-url: https://www.weezevent.com/apr2016show2
 fb-url: https://www.facebook.com/events/1078742372177208/
-image-url: https://wzeweb-p-visuelorga-evn-affiche-thumb.s3-eu-west-1.amazonaws.com/affiche_158215.thumb53700.1455364298.jpg
+image-url: https://wzeweb-p-visuelorga-evn-affiche-thumb.s3-eu-west-1.amazonaws.com/affiche_158215.thumb53700.1456481608.jpg
 ---
 
 They were one of our best acts in 2015, here they are again!
