@@ -6,4 +6,5 @@ _site
 .jekyll-metadata
 node_modules/
 *_info.md
+*info.md
 post-template.md
