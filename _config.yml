@@ -11,7 +11,7 @@ permalink: /:year-:month-:day/:title.html
 
 paginate: 5
 
-gems: [jekyll-paginate]
+# gems: [jekyll-paginate]
 
 future: true
 
