@@ -5,7 +5,7 @@ layout: post
 ticket-url: https://www.weezevent.com/nov2016show2
 fb-url: https://www.facebook.com/events/806437096162929
 image-url: https://s3-eu-west-1.amazonaws.com/wzeweb-p-visuelorga-evn-affiche-thumb/affiche_201183.thumb53700.1474642583.jpg
-youtube-video: https://www.youtube.com/watch?v=_IS7jFNwnjs
+youtube-video: http://www.youtube.com/embed/_IS7jFNwnjs
 ---
 
 This might be the Line-up of the year, and certainly a show to remember, so make sure you don’t pass on this one!
@@ -38,8 +38,10 @@ He has performed as a stand-up all over the world, from Montreal to Amsterdam to
 Other TV credits include the Comedy Channel’s Live at the Comedy Store, RTE’s The Social, BBC 3’s Most Annoying People, BBCNI’s One Night Stand and BBC 3’s Olympics Greatest Moments. Radio appearances include BBC Radio 4’s Loose Ends and BBC Scotland’s The Guessing Game with Clive Anderson as well as Colin Murphy’s Great Unanswered Questions for BBCNI. He has written for RTE’s Satirical panel show “That’s All We’ve Got Time For”. He was a recent winner of the Irish Times/Fishamble Tiny Plays contest and has been commissioned to write a play, The Last Stevedore as well as film treatments for various projects. He has also written for Time Out London, Hot Press and The Irish Post.
  
 _“Farnan will make you think hard and laugh even harder”_ &mdash; THE LIST
+
 _“If Eddie Izzard had been Irish, he’d surely have turned out a lot like Keith Farnan”_ &mdash; THE SCOTSMAN
+
 _"Time Out Critics Choice"_ &mdash; London, New York, Hong Kong and Dubai!
+
 _“This is political comedy at its best, perfectly balanced, deadly serious and very funny”_ &mdash; THE SKINNY
 
-### Keith Farnan on Michael Mc Intyre’s show:
