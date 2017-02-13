@@ -3,15 +3,16 @@ layout: default
 ---
 
 <!-- 5000000 == 57 days -->
+<!-- 4000000 == 46 days -->
 <!-- 2629743 == a month -->
 <section class="latest">
     <div class="grid">
 
 
-    {% for post in site.posts | limit: 10 %}
+    {% for post in site.posts | limit: 8 %}
 
         {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
-        {% capture range %}{{ nowunix | plus: 5000000}}{% endcapture %}
+        {% capture range %}{{ nowunix | plus: 4000000}}{% endcapture %}
         {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
         {% if posttime < range %}
 

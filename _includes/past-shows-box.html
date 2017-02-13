@@ -1,12 +1,36 @@
 <div class="past-shows-box" style="text-align: left;">
-    <h2>Present &amp; past events:</h2>
+    <h2>Upcoming events:</h2>
     <table>
+        {% assign curDate = site.time | date: '%s' %}
         {% for post in site.posts %}
-        <tr>
-            <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }}</a></td>
-            <td>&nbsp;/&nbsp;</td>
-            <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.event-title }}</a></td>
-        </tr>
+            {% assign postStartDate = post.date | date: '%s' %}
+            {% if postStartDate >= curDate %}
+                <tr>
+                    <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }}</a></td>
+                    <td>&nbsp;/&nbsp;</td>
+                    <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.event-title }}</a></td>
+                </tr>
+
+            {% endif %}
         {% endfor %}
     </table>
+
+    <h2 class="past_events_toggler" style="cursor: pointer;">Past events ...</h2>
+
+    <table class="past_events" style="display: none;">
+
+        {% assign curDate = site.time | date: '%s' %}
+        {% for post in site.posts %}
+            {% assign postStartDate = post.date | date: '%s' %}
+            {% if postStartDate < curDate %}
+            <tr>
+                <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }}</a></td>
+                <td>&nbsp;/&nbsp;</td>
+                <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.event-title }}</a></td>
+            </tr>
+            {% endif %}
+        {% endfor %}
+    </table>
+
+
 </div>

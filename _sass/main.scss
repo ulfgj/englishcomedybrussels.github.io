@@ -243,6 +243,13 @@ hr {
     color: black;
 }
 
+table.past_events {
+    display: none;                          /* Hide all hiddens */
+}
+table.past_events.show {
+    display: block;                         /* Show only the current hidden */
+}
+
 footer {
     // sticky RWD footer
     display: table;
