@@ -2,7 +2,7 @@
 title: 2017-04-04-english-comedy-night-w-marcel-lucont-alexis-dubus
 event-title: English Comedy Night w/ Marcel Lucont & Alexis Dubus
 layout: post
-ticket-url: http;//www.weezevent.com/apr2017show1
+ticket-url: http://www.weezevent.com/apr2017show1
 fb-url: https://www.facebook.com/events/261106777641778/
 image-url: https://s3-eu-west-1.amazonaws.com/wzeweb-p-visuelorga-evn-affiche-thumb/affiche_220960.thumb53700.1483281861.jpg
 ---
