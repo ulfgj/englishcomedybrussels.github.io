@@ -6,7 +6,6 @@ ticket-url: https://www.weezevent.com/stotzem2017
 fb-url: https://www.facebook.com/events/356490544685694/
 image-url: https://s3-eu-west-1.amazonaws.com/wzeweb-p-visuelorga-evn-affiche-thumb/affiche_143818.thumb53700.1456481398.jpg
 ---
-## Jacques Stotzem
 Jacques Stotzem, one of the best acoustic guitar players in the world, will be performing at The Black Sheep for the second time, after a very successful premiere in 2016.
 
 Fingerpicking, blues, rock, own creations or cover songs, Jacques Stotzem has no boundaries. He performs more than 100 concerts per year, in some of the biggest guitar festivals whether in Europe or in America.  He also tours Japan, China, Taiwan, South Korea. Since 2006 he even has his own signature guitar build by Martin guitars, one of the most prestigious companies in the world.
