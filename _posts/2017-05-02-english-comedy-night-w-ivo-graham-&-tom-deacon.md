@@ -5,7 +5,7 @@ layout: post
 ticket-url: https://www.weezevent.com/may2017show1
 fb-url: https://www.facebook.com/events/205188766640203/
 image-url: https://s3-eu-west-1.amazonaws.com/wzeweb-p-visuelorga-evn-affiche-thumb/affiche_241991.thumb53700.1491394989.jpg
-youtube-video: https://www.youtube.com/watch?v=_9dpSrFgpk8
+youtube-video: http://www.youtube.com/watch?v=_9dpSrFgpk8
 ---
 ## Ivo Graham
 
