@@ -8,6 +8,7 @@ image-url: https://s3-eu-west-1.amazonaws.com/wzeweb-p-visuelorga-evn-affiche-th
 youtube-video: https://www.youtube.com/watch?v=_9dpSrFgpk8
 ---
 ## Ivo Graham
+
 Apologetic Eton and Oxford alumnus Ivo started stand-up in 2009 at the age of eighteen and eight months later became the youngest ever winner of the prestigious "So You Think You’re Funny"-award for new acts at the Edinburgh Fringe.
 
 Since graduating three years later he has become a regular fixture in the clubs and theatres of the UK circuit, with a gauche charm and crafty, self-aware wit which has proved a hit with audiences of all ages, and led to appearances on multiple TV and radio shows including Live At The Apollo, Mock The Week, Comedy Central At The Comedy Store, As Yet Untitled, Live From the BBC and Fighting Talk.
@@ -19,8 +20,9 @@ His three solo stand-up shows have enjoyed sell-out runs at Edinburgh and London
 ‘Cleverly constructed comic timing’ – ★★★★ Edinburgh Evening News  
 ‘A very convincing set from this erudite comedian’ ★★★★ – The Independent  
 ‘Beautifully constructed comedy’ – The Scotsman
- 
+
 ## Tom Deacon
+
 He's finally back in Brussels!
 
 Tom has been performing live stand-up for the last eight years – with three Edinburgh solo shows under his belt – and has been the host of his own TV, radio and online shows on BBC2, BBC Radio1 and YouTube football channel Copa90 – where his Eurofan escapades have notched up over 1 million views.
