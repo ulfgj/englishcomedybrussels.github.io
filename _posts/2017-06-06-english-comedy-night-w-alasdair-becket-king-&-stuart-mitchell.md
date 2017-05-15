@@ -6,6 +6,7 @@ ticket-url: https://www.weezevent.com/jun2017show1
 fb-url: https://www.facebook.com/events/1509189679126526/
 image-url: https://s3-eu-west-1.amazonaws.com/wzeweb-p-visuelorga-evn-affiche-thumb/affiche_249381.thumb53700.1494837750.jpg
 ---
+
 For this show we have two comedians that will perform in Brussels for the first time, but check their already incredible pedigree:
 
 ## Alasdair Beckett-King
