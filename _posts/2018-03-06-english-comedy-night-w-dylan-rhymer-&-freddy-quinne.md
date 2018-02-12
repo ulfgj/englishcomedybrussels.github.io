@@ -15,8 +15,7 @@ For 20 years Dylan Rhymer has delighted and challenged audiences all over the wo
 
 He explores social issues, philosophy and current events through the lens of his own insecurities and stupid shortcomings in a way that everyone can relate to.
 ​
-"Politically charged, brutally honest. Dylan Rhymer is changing the face of comedy"
-- The Georgia Straight
+"Politically charged, brutally honest. Dylan Rhymer is changing the face of comedy" - The Georgia Straight
 
 Winner of the People's Champ of Comedy Vancouver
 
