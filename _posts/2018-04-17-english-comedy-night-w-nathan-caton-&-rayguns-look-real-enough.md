@@ -1,6 +1,6 @@
 ---
 title: 2018-04-17-english-comedy-night-w-nathan-caton-&-rayguns-look-real-enough
-event-title: ENGLISH COMEDY NIGHT W/ NATHAN CATON & RAYGUNS LOOK REAL ENOUGH
+event-title: English Comedy Night w/ Nathan Caton & Rayguns Look Real Enough
 layout: post
 ticket-url: https://www.weezevent.com/apr2018show2
 fb-url: https://www.facebook.com/events/1675714685804915

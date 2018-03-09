@@ -1,12 +1,12 @@
 ---
 title: 2018-05-08-glenn-wool-viva-forever
-event-title: GLENN WOOL - VIVA FOREVER
+event-title: Glenn Wool - Viva Forever
 layout: post
 ticket-url: https://www.weezevent.com/glennwool2018
 fb-url: https://www.facebook.com/events/177063582922446
 image-url: https://wzeweb-p-visuelorga-evn-affiche-thumb.s3.eu-west-1.amazonaws.com/affiche_326211.thumb53700.1520514284.jpg
 ---
-It's a pleasure to have one of the most talented and acclaimed comedians on the circuit...  Yes, Glenn Wool is back in Brussels! 
+It's a pleasure to have one of the most talented and acclaimed comedians on the circuit...  Yes, Glenn Wool is back in Brussels!
 
 ## GLENN WOOL: Viva Forever
 

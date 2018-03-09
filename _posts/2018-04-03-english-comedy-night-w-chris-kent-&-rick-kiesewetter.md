@@ -1,6 +1,6 @@
 ---
 title: 2018-04-03-english-comedy-night-w-chris-kent-&-rick-kiesewetter
-event-title: ENGLISH COMEDY NIGHT W/ CHRIS KENT & RICK KIESEWETTER
+event-title: English Comedy Night w/ Chris Kent & Rick Kiesewetter
 layout: post
 ticket-url: https://www.weezevent.com/apr2018show1
 fb-url: https://www.facebook.com/events/195908541159426

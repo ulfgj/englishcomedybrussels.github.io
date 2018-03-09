@@ -1,6 +1,6 @@
 ---
 title: 2018-03-20-english-comedy-night-w-chris-purchase-&-nigel-ng
-event-title: ENGLISH COMEDY NIGHT W/ CHRIS PURCHASE & NIGEL NG
+event-title: English Comedy Night w/ Chris Purchase & Nigel NG
 layout: post
 ticket-url: https://www.weezevent.com/mar2018show2
 fb-url: https://www.facebook.com/events/210707789477682
