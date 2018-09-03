@@ -2,7 +2,7 @@
     <h2>Upcoming events:</h2>
     <table>
         {% assign curDate = site.time | date: '%s' %}
-        {% for post in site.posts %}
+        {% for post in site.posts reversed %}
             {% assign postStartDate = post.date | date: '%s' %}
             {% if postStartDate >= curDate %}
                 <tr>

@@ -8,11 +8,13 @@ layout: default
 <section class="latest">
     <div class="grid">
 
+    {% for post in site.posts reversed | sort: 'date' | limit: 10 %}
 
-        {% assign curDate = site.time | date: '%s' %}
-        {% for post in site.posts reversed %}
-            {% assign postStartDate = post.date | date: '%s' %}
-            {% if postStartDate >= curDate %}
+        {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+        {% capture range %}{{ nowunix | plus: 9000000}}{% endcapture %}
+        {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
+        {% if posttime < range %}
+
 
             {% capture currentmonth %}{{post.date | date: "%m"}}{% endcapture %}
             {% if currentmonth != month %}
@@ -40,9 +42,9 @@ layout: default
                 </div>
             </div>
 
-            {% endif %}
-        {% endfor %}
+        {%endif%}
 
+    {% endfor %}
 
     </div>
 
