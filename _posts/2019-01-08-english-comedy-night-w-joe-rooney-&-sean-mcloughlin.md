@@ -8,7 +8,7 @@ image-url: https://wzeweb-p-visuelorga-evn-affiche-thumb.s3.eu-west-1.amazonaws.
 ---
 The new year begins with two returning comedians, both stellar, Joe Rooney (father Damo in the Father Ted series), and Sean McLoughlin.
 
-##Joe Rooney
+## Joe Rooney
 Joe Rooney was voted Best Comedian 2017 at the recent Pure M Awards. He has been a headline act in venues all over Britain and Ireland for many years including The Stand ( Edinburgh, Glasgow, Newcastle), The Empire (Belfast) and Laughter Lounge (Dublin) and has headlined clubs in China, Kansas City, Dubai, Moscow and Bahrain.
 
 His energetic mixture of stand up and musical comedy and ability to engage with the audience has proved a hit with all ages and nationalities.
@@ -17,7 +17,7 @@ Joe is also a successful actor and writer having acted as Father Damo in Father 
 
 occasionally laconic, at times infectiously manic, and always rivetting – coupled with his years of experience have made him one of Ireland’s “10 Most Wanted”, when promoters nationwide pick up their phones. The Hot Press
 
-##Sean McLoughlin
+## Sean McLoughlin
 Sean McLoughlin has performed gigs of all sizes right across the U.K. and internationally, from the big weekend clubs to the smaller independents, universities and crack dens. He’s also supported Doc Brown and Katherine Ryan on tour, and made an appearance on Russell Howard’s Stand-Up Central on Comedy Central.
 
 Edinburgh Fringe 2014 – I Will Prevail:
