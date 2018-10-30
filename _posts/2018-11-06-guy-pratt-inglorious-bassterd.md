@@ -5,6 +5,7 @@ layout: post
 ticket-url: http://www.weezevent.com/pratt2018
 fb-url: https://www.facebook.com/events/153169475355699/
 image-url: https://wzeweb-p-visuelorga-evn-affiche-thumb.s3.eu-west-1.amazonaws.com/affiche_326333.thumb53700.1520532511.jpg
+availability: soldout
 ---
 Here's a very special stand-up show with a world class musician who performed with Pink Floyd, Roxy Music, Madonna, Michael Jackson, Iggy Pop, Tears For Fears.... and many others. Check him out and get your tickets as soon as you can, as we expect this one to sell out very quickly.
 
@@ -18,7 +19,7 @@ Having wowed crowds the world over with ‘My Bass and other Animals’ and ‘B
 
 “Not only a world-class musician but a great storyteller.  Rated: must-see.” – Ian Rankin
 
-“A natural raconteur with a droll turn of phrase” – The Guardian 
+“A natural raconteur with a droll turn of phrase” – The Guardian
 
 “Like being seated on a train journey next to the most interesting man you ever met” – The Sunday Times
 
