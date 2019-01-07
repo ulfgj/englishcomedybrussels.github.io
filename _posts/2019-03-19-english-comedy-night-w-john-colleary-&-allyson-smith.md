@@ -13,7 +13,7 @@ Since 2000, Allyson June Smith has been tickling Canada’s comedy scene from th
 
 ## John Colleary
 John Colleary is star and co-writer of the 3-time IFTA nominated THE SAVAGE EYE. His credits include appearances on STAND AND DELIVER & THE PANEL (RTE2), as well as being the writer/performer of popular slot LAST ORDERS on TODAY FMs LAST WORD.  He is one of Dublin’s most sought after MC’s and comedians and also one of our crowd’s favorite acts.
- 
+
 Doors open at 6:30 pm, come early and enjoy some great food and spectacular Gin & Tonics!
 
 Online tickets : 17€
