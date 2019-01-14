@@ -15,5 +15,11 @@
 
             <img class="logo" src="{{ site.baseurl }}/images/logo.png" alt="english comedy brussels" />
         </header>
-        
+
+        {% if page.id == "index" %}
+            <div class="about" style="padding: 10px; margin: 0 auto; width: 80%;">
+                {% include about.html %}
+            </div>
+        {% endif %}
+
         {{ content }}
