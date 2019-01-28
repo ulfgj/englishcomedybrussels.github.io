@@ -33,6 +33,9 @@ id: index
                 {% if post.availability == "cancelled" %}
                     <span class="availability front-page">Cancelled</span>
                 {%endif%}
+                {% if post.availability == "extra" %}
+                    <span class="availability front-page">EXTRA SHOW!</span>
+                {%endif%}
 
                         <img src="{{ post.image-url }}" />
                         <p>{{ post.date | date_to_long_string }}</p>
