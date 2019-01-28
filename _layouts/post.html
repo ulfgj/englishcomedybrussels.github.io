@@ -18,6 +18,10 @@ layout: default
         {% if page.availability == "cancelled" %}
             <span class="availability">Cancelled</span>
         {%endif%}
+        {% if page.availability == "extra" %}
+            <span class="availability">EXTRA SHOW!</span>
+        {%endif%}
+
         <h2 style="border-bottom: 1px solid black;">{{ page.date | date: "%-d %B %Y" }}</h2>
 
         <h2 style="margin-top: -5px;">{{ page.event-title }}</h2>

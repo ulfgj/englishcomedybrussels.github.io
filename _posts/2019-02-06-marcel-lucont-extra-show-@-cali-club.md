@@ -5,6 +5,7 @@ layout: post
 ticket-url: https://www.weezevent.com/lucontcali
 fb-url: https://www.facebook.com/events/2273507809639326
 image-url: https://wzeweb-p-visuelorga-evn-affiche-thumb.s3.eu-west-1.amazonaws.com/affiche_417434.thumb53700.1548513638.jpg
+availability: extra
 ---
 EXTRA SHOW for one of the most incredible acts of the UK comedy circuit.  February 5th is completely SOLD OUT
 
